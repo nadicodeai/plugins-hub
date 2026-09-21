@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "research-brief",
+  "version": "1.0.0",
+  "description": "Produce a decision-ready research brief from verifiable sources.",
+  "author": {
+    "name": "NadicodeAI",
+    "url": "https://nadicode.ai"
+  },
+  "homepage": "https://nadicode.ai",
+  "repository": "https://github.com/nadicodeai/plugins-hub",
+  "keywords": [
+    "research",
+    "brief",
+    "citations"
+  ]
+}
