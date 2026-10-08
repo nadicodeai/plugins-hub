@@ -1,0 +1,2427 @@
+{
+"provincia": "Milano",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "015002",
+"comune": "Abbiategrasso",
+"sito": "https://www.comune.abbiategrasso.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://abbiategrasso.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://abbiategrasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.abbiategrasso.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015005",
+"comune": "Albairate",
+"sito": "https://www.comune.albairate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.albairate.mi.it/c015005/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.albairate.mi.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.albairate.mi.it/c015005/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albairate.mi.it/c015005/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "015007",
+"comune": "Arconate",
+"sito": "https://www.arconate.org",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.arconate.org",
+"browser": true
+}
+]
+},
+{
+"istat": "015009",
+"comune": "Arese",
+"sito": "https://www.comune.arese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://arese.trasparenza-valutazione-merito.it/it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://arese.trasparenza-valutazione-merito.it/it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.arese.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015010",
+"comune": "Arluno",
+"sito": "https://www.comune.arluno.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015010/zf/index.php/organi-politico-amministrativo/index/detail/categoria/78/page/1/archivio/1/idOrgano/G-XpnPQT-A"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015010/zf/index.php/organi-politico-amministrativo/index/detail/categoria/78/archivio/1/page/2/idOrgano/G-XpZPQT-A"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/Arluno/Albo/Albo"
+},
+{
+"kind": "notizie",
+"url": "https://comune.arluno.mi.it/novita"
+}
+]
+},
+{
+"istat": "015011",
+"comune": "Assago",
+"sito": "https://www.comune.assago.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://assago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.assago.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015012",
+"comune": "Bareggio",
+"sito": "https://www.comune.bareggio.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bareggio.mi.it/amministrazione-trasparente/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bareggio.mi.it/associazioni-iscritte-allalbo-comunale/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bareggio.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015014",
+"comune": "Basiano",
+"sito": "https://www.unione.basianomasate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/ucbasianomasate/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.unione.basianomasate.mi.it/site/aree/Documenti+albo+pretorio?open"
+},
+{
+"kind": "notizie",
+"url": "https://www.unione.basianomasate.mi.it/site/aree/Notizie?open"
+}
+]
+},
+{
+"istat": "015015",
+"comune": "Basiglio",
+"sito": "https://www.comune.basiglio.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.comune.basiglio.mi.it/pagina566_bandi-di-gara-e-contratti.html"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.basiglio.mi.it/cmsbasiglio//portale/albopretorio/albopretorioconsultazione.aspx?IDNODE=1230"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.basiglio.mi.it/pagina133689_novit.html?tipologia=notizie"
+}
+]
+},
+{
+"istat": "015016",
+"comune": "Bellinzago Lombardo",
+"sito": "https://www.comune.bellinzagolombardo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.bellinzagolombardo.mi.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c015016/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://comune.bellinzagolombardo.mi.it/category/notizie-ed-eventi/"
+}
+]
+},
+{
+"istat": "015019",
+"comune": "Bernate Ticino",
+"sito": "https://www.comune.bernateticino.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bernateticino.mi.it/Bandigare.aspx"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bernateticino.mi.it/Dettaglionews.aspx?IDNews=271687"
+}
+]
+},
+{
+"istat": "015022",
+"comune": "Besate",
+"sito": "https://www.comune.besate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.besate.mi.it/EG0/EGSCHTST26.HBL?en=egt63&MESSA=PUBBLICA&SRL=97"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.besate.mi.it/novita/avvisi/novita_80.html"
+}
+]
+},
+{
+"istat": "015024",
+"comune": "Binasco",
+"sito": "https://www.comune.binasco.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://binasco.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://binasco.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.binasco.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015026",
+"comune": "Boffalora sopra Ticino",
+"sito": "https://comune.boffalorasopraticino.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.boffalorasopraticino.mi.it/servizi-categoria/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.boffalorasopraticino.mi.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://comune.boffalorasopraticino.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015027",
+"comune": "Bollate",
+"sito": "https://www.comune.bollate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://oldsite.comune.bollate.mi.it/amm-trasparente/amministrazione-trasparente/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "bandi",
+"url": "https://oldsite.comune.bollate.mi.it/amm-trasparente/amministrazione-trasparente/bandi-di-gara-e-contratti/contratti-pubblici-di-lavori-servizi-e-forniture-di-rilevanza-comunitaria/servizi-e-forniture-avvisi-di-preinformazione/"
+},
+{
+"kind": "albo",
+"url": "https://bollate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bollate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015032",
+"comune": "Bresso",
+"sito": "https://www.bresso.net",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbresso/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bresso.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015035",
+"comune": "Bubbiano",
+"sito": "https://www.comune.bubbiano.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.bubbiano.mi.it/amministrazione/documenti-e-dati/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bubbiano.mi.it/novita"
+}
+]
+},
+{
+"istat": "015036",
+"comune": "Buccinasco",
+"sito": "https://www.comune.buccinasco.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.buccinasco.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015038",
+"comune": "Buscate",
+"sito": "https://www.comune.buscate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.buscate.mi.it/Bandigare?Tipo=1"
+},
+{
+"kind": "albo",
+"url": "http://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=bsct247"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.buscate.mi.it/Notizie"
+}
+]
+},
+{
+"istat": "015040",
+"comune": "Bussero",
+"sito": "https://www.comune.bussero.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://portaleonline.comune.bussero.mi.it/cmsbussero/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://portaleonline.comune.bussero.mi.it/cmsbussero/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.bussero.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015041",
+"comune": "Busto Garolfo",
+"sito": "https://www.comune.bustogarolfo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bustogarolfo.mi.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bustogarolfo.mi.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-annuale-dell-albo-dei-presidenti-di-seggio-400760-1-23a0c920b265e83066c4f2119405906e"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bustogarolfo.mi.it/it-it/novita"
+}
+]
+},
+{
+"istat": "015042",
+"comune": "Calvignasco",
+"sito": "https://www.comune.calvignasco.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015042/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c015042/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.calvignasco.mi.it/it-it/novita"
+}
+]
+},
+{
+"istat": "015044",
+"comune": "Cambiago",
+"sito": "https://www.comune.cambiago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cambiago.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "http://cambiago.trasparenza-valutazione-merito.it/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cambiago.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015046",
+"comune": "Canegrate",
+"sito": "https://www.comune.canegrate.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.canegrate.mi.it/servizio/tipologia/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://comune.canegrate.mi.it/novita/notizia/presidenti-di-seggio-elettorale-iscrizione-allalbo-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.canegrate.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015050",
+"comune": "Carpiano",
+"sito": "https://www.comune.carpiano.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://carpiano.halleyweb.it/c015050/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carpiano.mi.it/novita/notizie/novita_409.html"
+}
+]
+},
+{
+"istat": "015051",
+"comune": "Carugate",
+"sito": "https://www.comune.carugate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.carugate.mi.it/EG0/EGSCHTST26.HBL?en=eg786&MESSA=PUBBLICA&SRL=149"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carugate.mi.it/novita/notizie/novita_45.html"
+}
+]
+},
+{
+"istat": "015055",
+"comune": "Casarile",
+"sito": "https://www.comune.casarile.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.casarile.mi.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casarile.mi.it/c015055/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "015058",
+"comune": "Casorezzo",
+"sito": "https://www.comune.casorezzo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.casorezzo.mi.it/EG0/EGSCHTST26.HBL?en=eg520&MESSA=PUBBLICA&SRL=123"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casorezzo.mi.it/novita/notizie/novita_187.html"
+}
+]
+},
+{
+"istat": "015059",
+"comune": "Cassano d'Adda",
+"sito": "https://www.comune.cassanodadda.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cassanodadda.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cassanodadda.mi.it/it/menu/358334"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassanodadda.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015060",
+"comune": "Cassina de' Pecchi",
+"sito": "https://www.comune.cassinadepecchi.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cassinadepecchi.mi.it/it/page/135353?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cassinadepecchi.mi.it/it/page/13239"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassinadepecchi.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015061",
+"comune": "Cassinetta di Lugagnano",
+"sito": "https://www.comune.cassinettadilugagnano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cassinettadilugagnano.mi.it/EG0/EGSCHTST26.HBL?en=egt29&MESSA=PUBBLICA&SRL=103",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassinettadilugagnano.mi.it/novita/notizie/novita_320.html"
+}
+]
+},
+{
+"istat": "015062",
+"comune": "Castano Primo",
+"sito": "https://www.comune.castanoprimo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castanoprimo.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015070",
+"comune": "Cernusco sul Naviglio",
+"sito": "https://www.comune.cernuscosulnaviglio.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=l200130&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=l200130"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cernuscosulnaviglio.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015071",
+"comune": "Cerro al Lambro",
+"sito": "https://www.comune.cerroallambro.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cerroallambro.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://cerroallambro.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cerroallambro.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015072",
+"comune": "Cerro Maggiore",
+"sito": "https://www.cerromaggiore.org",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cerromaggiore.mi.it/EG0/EGSCHTST26.HBL?en=eg126&MESSA=PUBBLICA&SRL=98"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cerromaggiore.mi.it/novita/notizie/novita_760.html"
+}
+]
+},
+{
+"istat": "015074",
+"comune": "Cesano Boscone",
+"sito": "https://www.comune.cesano-boscone.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cesano-boscone.mi.it/servizi-non-presenti/"
+},
+{
+"kind": "albo",
+"url": "https://cesanoboscone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=4652"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cesano-boscone.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015076",
+"comune": "Cesate",
+"sito": "https://www.comune.cesate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cesate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "http://cesate.trasparenza-valutazione-merito.it/albo-pretorio?ID_MacroMenu=1"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cesate.mi.it/notizie/"
+}
+]
+},
+{
+"istat": "015077",
+"comune": "Cinisello Balsamo",
+"sito": "https://www.comune.cinisello-balsamo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?rubrique2126"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article10510"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?rubrique26"
+}
+]
+},
+{
+"istat": "015078",
+"comune": "Cisliano",
+"sito": "https://www.comune.cisliano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Cisliano/Trasparenza/bandigaracontratti2.aspx"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/Cisliano/albo/albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cisliano.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015081",
+"comune": "Cologno Monzese",
+"sito": "https://www.comune.colognomonzese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://colognomonzese.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://colognomonzese.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=4664"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.colognomonzese.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015082",
+"comune": "Colturano",
+"sito": "https://comune.colturano.mi.it/",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune.colturano.mi.it/it/news/aggiornamento-annuale-dell-albo-degli-scrutatori-di-seggio-elettorale-2045411"
+},
+{
+"kind": "notizie",
+"url": "https://comune.colturano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015085",
+"comune": "Corbetta",
+"sito": "https://www.comune.corbetta.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.corbetta.mi.it/amministrazione-trasparente/sezioni/608412-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.corbetta.mi.it/hypersicportal/listaServizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://comune.corbetta.mi.it/novita"
+}
+]
+},
+{
+"istat": "015086",
+"comune": "Cormano",
+"sito": "https://www.comune.cormano.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://cormano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cormano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015087",
+"comune": "Cornaredo",
+"sito": "https://www.comune.cornaredo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.cornaredo.mi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200365&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.cornaredo.mi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n200365&w3cbt=S"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cornaredo.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015093",
+"comune": "Corsico",
+"sito": "https://www.comune.corsico.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://corsico.e-pal.it/L190/?idSezione=180904&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://comune.corsico.mi.it/novita/notizia/albo-presidenti-di-seggio-e-scrutatori-aperte-le-iscrizioni/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.corsico.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015096",
+"comune": "Cuggiono",
+"sito": "https://www.comune.cuggiono.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Cuggiono/amministrazionetrasparente/BandiContratti.aspx"
+},
+{
+"kind": "albo",
+"url": "https://comune.cuggiono.mi.it/notizie/3659001/albo-presidenti-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cuggiono.mi.it/novita"
+}
+]
+},
+{
+"istat": "015097",
+"comune": "Cusago",
+"sito": "https://www.comune.cusago.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cusago.mi.it/EG0/EGSCHTST26.HBL?en=e1417&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cusago.mi.it/novita/notizie/novita_1225.html"
+}
+]
+},
+{
+"istat": "015098",
+"comune": "Cusano Milanino",
+"sito": "https://www.comune.cusano-milanino.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cusano-milanino.mi.it/il-comune/amministrazione-trasparente-2/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "http://www.dgegovpa.it/CusanoMilanino/Albo/Albo.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cusano-milanino.mi.it/comunicazione/comunicati-stampa/"
+}
+]
+},
+{
+"istat": "015099",
+"comune": "Dairago",
+"sito": "https://www.comune.dairago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.dairago.mi.it/servizio/tipologia/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.dairago.mi.it/ServiziOnLine/Istanze/landingIstanza?Id=1"
+},
+{
+"kind": "notizie",
+"url": "https://comune.dairago.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015101",
+"comune": "Dresano",
+"sito": "https://www.comune.dresano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dresano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015103",
+"comune": "Gaggiano",
+"sito": "https://www.comune.gaggiano.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.gaggiano.mi.it/it/news/aggiornamento-dellalbo-delle-persone-idonee-allufficio-di-presidente-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gaggiano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015105",
+"comune": "Garbagnate Milanese",
+"sito": "https://www.comune.garbagnate-milanese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://garbagnatemilanese.trasparenza-valutazione-merito.it/web/trasparenzaj/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://garbagnatemilanese.trasparenza-valutazione-merito.it/web/trasparenzaj/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.garbagnate-milanese.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015106",
+"comune": "Gessate",
+"sito": "https://www.comune.gessate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.comune.gessate.mi.it/c015106/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.gessate.mi.it/it/page/25720"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gessate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015108",
+"comune": "Gorgonzola",
+"sito": "https://www.comune.gorgonzola.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza?ID_M=651&ID_MacroMenu=1&ID_MacroMenu=10"
+},
+{
+"kind": "albo",
+"url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio?ID_MacroMenu=1"
+},
+{
+"kind": "notizie",
+"url": "https://comune.gorgonzola.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015110",
+"comune": "Grezzago",
+"sito": "https://www.comune.grezzago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.grezzago.mi.it/c015110/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.grezzago.mi.it/c015110/zf/index.php/bandi-di-gara"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.grezzago.mi.it/c015110/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "015112",
+"comune": "Gudo Visconti",
+"sito": "https://www.comune.gudovisconti.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.gudovisconti.mi.it/EG0/EGSCHTST26.HBL?en=eg188&MESSA=PUBBLICA&SRL=135"
+},
+{
+"kind": "bandi",
+"url": "https://gudo.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gudovisconti.mi.it/novita/notizie/novita_681.html"
+}
+]
+},
+{
+"istat": "015113",
+"comune": "Inveruno",
+"sito": "https://comune.inveruno.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.comune.inveruno.mi.it/cmsinveruno/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=80"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.inveruno.mi.it/cmsinveruno/servizionline.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.inveruno.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015114",
+"comune": "Inzago",
+"sito": "https://www.comune.inzago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.inzago.mi.it/amministrazione/documenti-e-dati/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsinzago/portale/albopretorio/albopretorioconsultazione.aspx?P=600"
+},
+{
+"kind": "notizie",
+"url": "https://comune.inzago.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015115",
+"comune": "Lacchiarella",
+"sito": "https://www.comune.lacchiarella.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lacchiarella.mi.it/it/page/appalti-pubblici?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://lacchiarella.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lacchiarella.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015116",
+"comune": "Lainate",
+"sito": "https://www.comune.lainate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://lainate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://lainate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=1489186102&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489186103"
+},
+{
+"kind": "notizie",
+"url": "https://comune.lainate.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015118",
+"comune": "Legnano",
+"sito": "https://comune.legnano.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.legnano.mi.it/amministrazione-trasparente/sezioni/3544008-bandi-gara-contratti-sino-31-12-2023"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1234384&w3cbt=S"
+},
+{
+"kind": "notizie",
+"url": "https://comune.legnano.mi.it/novita"
+}
+]
+},
+{
+"istat": "015122",
+"comune": "Liscate",
+"sito": "https://www.comune.liscate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.liscate.mi.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.liscate.mi.it/il-comune-informa/albo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.liscate.mi.it/category/in-evidenza/avvisi-per-il-cittadino/"
+}
+]
+},
+{
+"istat": "015125",
+"comune": "Locate di Triulzi",
+"sito": "https://www.comune.locateditriulzi.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.locateditriulzi.mi.it/openweb/trasparenza/categoria.php?id=25"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.locateditriulzi.mi.it/it/eventi/un-segno-dopo-l-altro-verso-la-scrittura-attraverso-l-esplorazione-dell-albo-illustrato-le-fantastiche-avventure-del-signor-o"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.locateditriulzi.mi.it/it/novita"
+}
+]
+},
+{
+"istat": "015130",
+"comune": "Magenta",
+"sito": "https://www.comune.magenta.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://magenta.trasparenza-valutazione-merito.it/web/trasparenza/"
+},
+{
+"kind": "albo",
+"url": "https://comune.magenta.mi.it/novita/notizia/albo-dei-presidenti-e-degli-scrutatori-di-seggio-elettorale-aperte-le-iscrizioni/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.magenta.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015131",
+"comune": "Magnago",
+"sito": "https://www.comune.magnago.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "http://www.servizipubblicaamministrazione.it/servizi/saturnweb/home.aspx?ce=mgng033"
+},
+{
+"kind": "notizie",
+"url": "https://comune.magnago.mi.it/category/news/in-evidenza/"
+}
+]
+},
+{
+"istat": "015134",
+"comune": "Marcallo con Casone",
+"sito": "https://www.marcallo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.marcalloconcasone.mi.it/servizi-categoria/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c015134/mc/mc_p_ricerca.php?x=a17bc065172b14ec7883464375adb516&impresa=&cod_fis=&servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://comune.marcalloconcasone.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015136",
+"comune": "Masate",
+"sito": "https://www.unione.basianomasate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/ucbasianomasate/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.unione.basianomasate.mi.it/site/aree/Documenti+albo+pretorio?open"
+},
+{
+"kind": "notizie",
+"url": "https://www.unione.basianomasate.mi.it/site/aree/Notizie?open"
+}
+]
+},
+{
+"istat": "015139",
+"comune": "Mediglia",
+"sito": "https://www.comune.mediglia.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizi.comune.mediglia.mi.it/ServiziOnLine/Istanze/landingIstanza?Id=14"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mediglia.mi.it/notizie/ringraziamenti_fiera.html"
+}
+]
+},
+{
+"istat": "015140",
+"comune": "Melegnano",
+"sito": "https://www.comune.melegnano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.melegnano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015142",
+"comune": "Melzo",
+"sito": "https://www.comune.melzo.mi.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.melzo.mi.it/it/news"
+}
+]
+},
+{
+"istat": "015144",
+"comune": "Mesero",
+"sito": "https://www.comune.mesero.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015144/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.mesero.mi.it/it-it/amministrazione/atti-pubblicazioni/bandi-di-gara"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c015144/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mesero.mi.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "015150",
+"comune": "Morimondo",
+"sito": "https://www.comune.morimondo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.morimondo.mi.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.morimondo.mi.it/it-it/novita/avvisi/2026/elettorale/iscrizione-albo-scrutatori-e-presidenti-di-seggio-402764-1-51a3ce71157492ed43967723fdb0d91e"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.morimondo.mi.it/it-it/novita"
+}
+]
+},
+{
+"istat": "015151",
+"comune": "Motta Visconti",
+"sito": "https://comune.mottavisconti.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.mottavisconti.mi.it/amministrazione-trasparente/sezioni/2647479-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://comune.mottavisconti.mi.it/argomenti/argomento-dettaglio/3030943"
+},
+{
+"kind": "notizie",
+"url": "https://comune.mottavisconti.mi.it/novita"
+}
+]
+},
+{
+"istat": "015154",
+"comune": "Nerviano",
+"sito": "https://www.comune.nerviano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://nerviano.portaleamministrazionetrasparente.it/pagina566_bandi-di-gara-e-contratti.html"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c015154/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.nerviano.mi.it/pagina133689_novit.html?tipologia=notizie"
+}
+]
+},
+{
+"istat": "015155",
+"comune": "Nosate",
+"sito": "https://www.comune.nosate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.nosate.mi.it/Bandigare?Tipo=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.nosate.mi.it/Dettaglionews?IDNews=420334"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.nosate.mi.it/Notizie"
+}
+]
+},
+{
+"istat": "015157",
+"comune": "Novate Milanese",
+"sito": "https://www.comune.novate-milanese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.novate-milanese.mi.it/amministrazione-trasparente/sezioni/2519857-bandi-gara-contratti"
+},
+{
+"kind": "bandi",
+"url": "https://comune.novate-milanese.mi.it/amministrazione-trasparente/sezioni/3094584-fino-31-12-2022"
+},
+{
+"kind": "albo",
+"url": "https://novate-milanese.e-pal.it/AlboOnline/ricercaAlbo"
+},
+{
+"kind": "notizie",
+"url": "https://comune.novate-milanese.mi.it/novita"
+}
+]
+},
+{
+"istat": "015158",
+"comune": "Noviglio",
+"sito": "https://www.comune.noviglio.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.noviglio.mi.it/it/news/aggiornamento-annuale-dell-albo-dei-presidenti-di-seggio?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.noviglio.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015159",
+"comune": "Opera",
+"sito": "https://www.comune.opera.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.opera.mi.it/EG0/EGSCHTST26.HBL?en=eg779&MESSA=PUBBLICA&SRL=118"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015159/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.opera.mi.it/novita/avvisi/novita_2242.html"
+}
+]
+},
+{
+"istat": "015164",
+"comune": "Ossona",
+"sito": "https://www.comune.ossona.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsossona/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsossona/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ossona.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015165",
+"comune": "Ozzero",
+"sito": "https://www.comune.ozzero.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.ozzero.mi.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "http://dgegovpa.it/Ozzero/Albo/Albo.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ozzero.mi.it/it-it/novita"
+}
+]
+},
+{
+"istat": "015166",
+"comune": "Paderno Dugnano",
+"sito": "https://www.comune.paderno-dugnano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Paderno/Trasparenza/bandigaracontratti2.aspx"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/Paderno/Albo/Albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.paderno-dugnano.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015167",
+"comune": "Pantigliate",
+"sito": "https://www.comune.pantigliate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://pantigliate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://pantigliate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pantigliate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015168",
+"comune": "Parabiago",
+"sito": "https://www.comune.parabiago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.parabiago.mi.it/area_letturaServizio/pagsistema.html?type=24"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/Parabiago/Albo/Albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.parabiago.mi.it/pagina133689_novit.html?tipologia=notizie"
+}
+]
+},
+{
+"istat": "015169",
+"comune": "Paullo",
+"sito": "https://www.comune.paullo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://paullo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.paullo.mi.it/it/page/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.paullo.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015170",
+"comune": "Pero",
+"sito": "https://www.comune.pero.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://pero.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://pero.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=36338"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pero.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015171",
+"comune": "Peschiera Borromeo",
+"sito": "https://www.comune.peschieraborromeo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.peschieraborromeo.mi.it/it/page/appalti-pubblici-202?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.peschieraborromeo.mi.it/it/news/aggiornamento-albo-delle-persone-idonee-allufficio-di-presidente-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.peschieraborromeo.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015172",
+"comune": "Pessano con Bornago",
+"sito": "https://www.comune.pessanoconbornago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.comune.pessanoconbornago.mi.it/cmspessano/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.pessanoconbornago.mi.it/cmspessano/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pessanoconbornago.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015173",
+"comune": "Pieve Emanuele",
+"sito": "https://www.comune.pieveemanuele.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://pieveemanuele.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10070"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pieveemanuele.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015175",
+"comune": "Pioltello",
+"sito": "https://www.comune.pioltello.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pioltello.mi.it/it/page/appalti-pubblici?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://pioltello.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pioltello.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015176",
+"comune": "Pogliano Milanese",
+"sito": "https://comune.poglianomilanese.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://portale.comune.poglianomilanese.mi.it/openweb/trasparenza/categoria.php?id=27"
+},
+{
+"kind": "albo",
+"url": "https://comune.poglianomilanese.mi.it/novita/notizia/iscrizione-allalbo-dei-presidenti-di-seggio-elettorale-anno-2024-2-2-2-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.poglianomilanese.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015177",
+"comune": "Pozzo d'Adda",
+"sito": "https://www.comune.pozzodadda.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015177/zf/index.php/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c015177/mc/mc_gridev_messi.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pozzodadda.mi.it/pageicardext/novità?tipo=comunicati"
+}
+]
+},
+{
+"istat": "015178",
+"comune": "Pozzuolo Martesana",
+"sito": "https://www.comune.pozzuolomartesana.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pozzuolomartesana.mi.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "https://pozzuolomartesana.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pozzuolomartesana.mi.it/category/notizie/"
+}
+]
+},
+{
+"istat": "015179",
+"comune": "Pregnana Milanese",
+"sito": "https://www.comune.pregnana.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.pregnana.mi.it/documenti/tipologie-documento/bando-di-gara/"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c015179/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.pregnana.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015181",
+"comune": "Rescaldina",
+"sito": "https://www.comune.rescaldina.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rescaldina.mi.it/it/page/125723?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://rescaldina.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=31241"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rescaldina.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015182",
+"comune": "Rho",
+"sito": "https://www.comune.rho.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rho.mi.it/it-it/amministrazione/bandi-di-gara"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.rho.mi.it/it-it/amministrazione/documenti-dati-ext/albo-pretorio-43748"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rho.mi.it/it-it/novita"
+}
+]
+},
+{
+"istat": "015183",
+"comune": "Robecchetto con Induno",
+"sito": "https://www.comune.robecchetto-con-induno.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune.robecchetto-con-induno.mi.it/documenti/2976191/modello-reindirizzamento"
+},
+{
+"kind": "notizie",
+"url": "https://comune.robecchetto-con-induno.mi.it/novita"
+}
+]
+},
+{
+"istat": "015184",
+"comune": "Robecco sul Naviglio",
+"sito": "https://www.comune.robeccosulnaviglio.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.robeccosulnaviglio.mi.it/c015184/zf/index.php/trasparenza/index/index/categoria/63/page/8/serial/22138/serial-beneficiario/492/tipo/3"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.robeccosulnaviglio.mi.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.robeccosulnaviglio.mi.it/c015184/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "015185",
+"comune": "Rodano",
+"sito": "https://www.comune.rodano.mi.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.rodano.mi.it/novita/avvisi/novita_1045.html"
+}
+]
+},
+{
+"istat": "015188",
+"comune": "Rosate",
+"sito": "https://www.comune.rosate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.rosate.mi.it/it/news/aggiornamento-albo-presidenti-di-seggio-ottobre-2025-2046696"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rosate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015189",
+"comune": "Rozzano",
+"sito": "https://www.comune.rozzano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.comune.rozzano.mi.it/"
+},
+{
+"kind": "albo",
+"url": "https://trasparenza.comune.rozzano.mi.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rozzano.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015191",
+"comune": "San Colombano al Lambro",
+"sito": "https://www.comune.sancolombanoallambro.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sancolombanoallambro.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sancolombanoallambro.mi.it/it/news/aggiornamento-annuale-albo-scrutatori-e-scrutatrici-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sancolombanoallambro.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015192",
+"comune": "San Donato Milanese",
+"sito": "https://www.comune.sandonatomilanese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://portali.comune.sandonatomilanese.mi.it/L190/?idSezione=257842&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sandonatomilanese.mi.it/vivere-san-donato-milanese/albo-delle-associazioni"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sandonatomilanese.mi.it/novita"
+}
+]
+},
+{
+"istat": "015194",
+"comune": "San Giorgio su Legnano",
+"sito": "https://www.comune.sangiorgiosulegnano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://portale.comune.sangiorgiosulegnano.mi.it/openweb/trasparenza/categoria.php?id=28"
+},
+{
+"kind": "albo",
+"url": "https://comune.sangiorgiosulegnano.mi.it/documenti/3088882/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sangiorgiosulegnano.mi.it/novita"
+}
+]
+},
+{
+"istat": "015195",
+"comune": "San Giuliano Milanese",
+"sito": "https://www.comune.sangiulianomilanese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sgm.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://comune.sangiulianomilanese.mi.it/novita/notizia/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sangiulianomilanese.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015200",
+"comune": "Santo Stefano Ticino",
+"sito": "https://www.comune.santostefanoticino.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.santostefanoticino.mi.it/openweb/trasparenza/categoria.php?id=28"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.santostefanoticino.mi.it/openweb/albo/albo_pretorio.php?oggi=1"
+},
+{
+"kind": "notizie",
+"url": "https://comune.santostefanoticino.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015201",
+"comune": "San Vittore Olona",
+"sito": "https://www.comune.sanvittoreolona.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comunesanvittoreolona.tuttogare.it/"
+},
+{
+"kind": "albo",
+"url": "https://portale.comune.sanvittoreolona.mi.it/openweb/albo/albo_pretorio.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanvittoreolona.mi.it/it/novita"
+}
+]
+},
+{
+"istat": "015202",
+"comune": "San Zenone al Lambro",
+"sito": "https://www.comune.sanzenoneallambro.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sanzenoneallambro.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "http://sanzenoneallambro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanzenoneallambro.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015204",
+"comune": "Sedriano",
+"sito": "https://www.comune.sedriano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Sedriano/AmministrazioneTrasparente/BandiContratti.aspx"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/SEDRIANO/albo/albo"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sedriano.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015205",
+"comune": "Segrate",
+"sito": "https://www.comune.segrate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://217.19.147.137/gare/internet/bandi/aperte/browsegara.bwp"
+},
+{
+"kind": "albo",
+"url": "https://segrate.comuneweb.it/ServiziOnLine/AlboPretorio/AlboPretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.segrate.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015206",
+"comune": "Senago",
+"sito": "https://www.comune.senago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://senago.trasparenza-valutazione-merito.it/web/trasparenza/"
+},
+{
+"kind": "albo",
+"url": "https://comune.senago.mi.it:443/albo-trasporto-privato-e-accompagnamento-anziani-disabili-o-soggetti-fragili-residenti-a-senago"
+},
+{
+"kind": "notizie",
+"url": "https://comune.senago.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015209",
+"comune": "Sesto San Giovanni",
+"sito": "https://www.comune.sestosangiovanni.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi-sestosangiovanni.e-pal.it/L190/?idSezione=294102&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://servizi-sestosangiovanni.e-pal.it/AlboOnline/ricercaAlbo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sestosangiovanni.mi.it/site/to-menu-url?url=/it/novita"
+}
+]
+},
+{
+"istat": "015210",
+"comune": "Settala",
+"sito": "https://www.comune.settala.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015210/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015210/zf/index.php/atti-generali"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c015210/mc/mc_gridev_messi.php#new_tab"
+}
+]
+},
+{
+"istat": "015211",
+"comune": "Settimo Milanese",
+"sito": "https://www.comune.settimomilanese.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n201744&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n201744"
+},
+{
+"kind": "notizie",
+"url": "https://comune.settimomilanese.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015213",
+"comune": "Solaro",
+"sito": "https://www.comune.solaro.mi.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.solaro.mi.it",
+"browser": true
+}
+]
+},
+{
+"istat": "015219",
+"comune": "Trezzano Rosa",
+"sito": "https://www.comune.trezzanorosa.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.trezzanorosa.mi.it/it/news/iscrizione-albo-scrutatori-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trezzanorosa.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015220",
+"comune": "Trezzano sul Naviglio",
+"sito": "https://www.comune.trezzano-sul-naviglio.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trezzano.e-pal.it/L190/?idSezione=152546&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://trezzano.e-pal.it/AlboOnline/ricercaAlbo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trezzano-sul-naviglio.mi.it/Novita"
+}
+]
+},
+{
+"istat": "015221",
+"comune": "Trezzo sull'Adda",
+"sito": "https://www.comune.trezzosulladda.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.trezzosulladda.mi.it/bandi-e-gare"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.trezzosulladda.mi.it/novita/news/aggiornamento-dellalbo-delle-persone-idonee-allufficio-di-presidente-di-seggio-elettorale-anno-2026"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trezzosulladda.mi.it/novita"
+}
+]
+},
+{
+"istat": "015222",
+"comune": "Tribiano",
+"sito": "https://www.comune.tribiano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.tribiano.mi.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.tribiano.mi.it/it-it/amministrazione/atti-pubblicazioni/bandi-di-gara"
+},
+{
+"kind": "albo",
+"url": "http://dgegovpa.it/Tribiano/Albo/Albo.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.tribiano.mi.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "015224",
+"comune": "Truccazzano",
+"sito": "https://www.comune.truccazzano.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.truccazzano.mi.it/amm-trasparente/2019-2/"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.truccazzano.mi.it/amm-trasparente/decisione-a-contrarre-affidamento-e-impegno-di-spesa-per-il-servizio-di-revisione-sostanziale-del-piano-di-protezione-civile-del-comune-di-truccazzano/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.truccazzano.mi.it/albo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.truccazzano.mi.it/category/avvisi-per-il-cittadino/"
+}
+]
+},
+{
+"istat": "015226",
+"comune": "Turbigo",
+"sito": "https://www.comune.turbigo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.turbigo.mi.it/Home/Bandigare?Tipo=1"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.turbigo.mi.it/Home/Menu?IDDettaglio=142261"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.turbigo.mi.it/Home/DettaglioNews?IDNews=271700"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.turbigo.mi.it/Notizie"
+}
+]
+},
+{
+"istat": "015229",
+"comune": "Vanzago",
+"sito": "https://www.comune.vanzago.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_vanzago/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "bandi",
+"url": "https://comune.vanzago.mi.it/trasparenza/bandi-di-gara-e-concorsi/"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.vanzago.mi.it/cmsvanzago/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vanzago.mi.it/comunicazione/notizie-dallamministrazione/"
+}
+]
+},
+{
+"istat": "015230",
+"comune": "Vaprio d'Adda",
+"sito": "https://www.comune.vapriodadda.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1152575&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.vapriodadda.mi.it/it/news/aggiornamento-dellalbo-delle-persone-idonee-per-lufficio-di-presidente-di-seggio-elettorale?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vapriodadda.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015236",
+"comune": "Vernate",
+"sito": "https://www.comune.vernate.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.vernate.mi.it/it/news/iscrizioni-aperte-per-l-albo-dei-presidenti-di-seggio-e-per-l-albo-scrutatori?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vernate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015237",
+"comune": "Vignate",
+"sito": "https://www.comune.vignate.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://vignate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://vignate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vignate.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015242",
+"comune": "Vimodrone",
+"sito": "https://www.comune.vimodrone.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune.vimodrone.mi.it/novita/notizia/scrutatori/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vimodrone.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015243",
+"comune": "Vittuone",
+"sito": "https://www.comune.vittuone.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.vittuone.mi.it/amministrazione-trasparente/sezioni/603943-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://albo.comune.vittuone.mi.it/cmsvittuone/servizionline.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vittuone.mi.it/novita"
+}
+]
+},
+{
+"istat": "015244",
+"comune": "Vizzolo Predabissi",
+"sito": "https://www.comune.vizzolopredabissi.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "http://vizzolopredabissi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vizzolopredabissi.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015247",
+"comune": "Zibido San Giacomo",
+"sito": "https://www.comune.zibidosangiacomo.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zibidosangiacomo.mi.it/it/page/appalti-pubblici-23?fromService=1"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c015247/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zibidosangiacomo.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015248",
+"comune": "Villa Cortese",
+"sito": "https://comune.villacortese.mi.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_villa_cortese/110_ban_gar_con/"
+},
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_villa_cortese/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "albo",
+"url": "https://comune.villacortese.mi.it/notizie/3055657/iscrizione-albo-presidente-scrutatore-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.villacortese.mi.it/novita"
+}
+]
+},
+{
+"istat": "015249",
+"comune": "Vanzaghello",
+"sito": "https://www.comune.vanzaghello.mi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.vanzaghello.mi.it/servizio/tipologia/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://comune.vanzaghello.mi.it/documenti/albo-pretorio-online/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vanzaghello.mi.it/novita/"
+}
+]
+},
+{
+"istat": "015250",
+"comune": "Baranzate",
+"sito": "https://www.comune.baranzate.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune-baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.baranzate.mi.it/it/menu/news"
+}
+]
+},
+{
+"istat": "015251",
+"comune": "Vermezzo con Zelo",
+"sito": "https://www.comune.vermezzoconzelo.mi.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n1231753"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vermezzoconzelo.mi.it/it-it/novita"
+}
+]
+}
+]
+}

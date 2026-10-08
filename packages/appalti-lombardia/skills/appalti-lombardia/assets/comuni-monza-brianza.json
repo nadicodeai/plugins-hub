@@ -1,0 +1,1020 @@
+{
+"provincia": "Monza e della Brianza",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "108001",
+"comune": "Agrate Brianza",
+"sito": "http://www.comune.agratebrianza.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n202182&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.agratebrianza.mb.it/novita/notizia/aggiornamento-albo-scutatori-e-albo-presidenti-di-seggio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.agratebrianza.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108002",
+"comune": "Aicurzio",
+"sito": "https://www.comune.aicurzio.mb.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.aicurzio.mb.it/EG0/EGSCHTST26.HBL?en=eg531&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.aicurzio.mb.it/novita/notizie/novita_106.html"
+}
+]
+},
+{
+"istat": "108003",
+"comune": "Albiate",
+"sito": "https://www.comune.albiate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://albiate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://albiate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albiate.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108004",
+"comune": "Arcore",
+"sito": "https://www.comune.arcore.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.arcore.mb.it/servizio/tipologia/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://comune.arcore.mb.it/novita/notizia/aggiornamento-albo-scrutatori-di-seggio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.arcore.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108005",
+"comune": "Barlassina",
+"sito": "https://www.comune.barlassina.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://barlassina.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.barlassina.mb.it/it/news/albo-presidenti-di-seggio-elettorale-1909034-2053505"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barlassina.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108006",
+"comune": "Bellusco",
+"sito": "https://www.comune.bellusco.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://bellusco.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bellusco.mb.it/it/news/iscrizione-all-albo-scrutatori-e-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bellusco.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108007",
+"comune": "Bernareggio",
+"sito": "https://www.comune.bernareggio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bernareggio.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108008",
+"comune": "Besana in Brianza",
+"sito": "https://www.comune.besanainbrianza.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://besanainbrianza.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://besanainbrianza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.besanainbrianza.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108009",
+"comune": "Biassono",
+"sito": "https://www.biassono.org",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.biassono.org/servizi/Menu/dinamica.aspx?idSezione=616&idArea=17200&idCat=27317&ID=27317&TipoElemento=categoria"
+},
+{
+"kind": "albo",
+"url": "https://www.biassono.org/servizi/notizie/notizie_fase02.aspx?ID=37658"
+},
+{
+"kind": "notizie",
+"url": "https://www.biassono.org/servizi/Menu/menu_redirect.aspx?url=https%3a%2f%2fwww.biassono.org%2fservizi%2fnotizie%2fnotizie_fase01.aspx%3fcategoriaVisualizzata%3d19&ID=26221&idCat=26221&TipoElemento=area"
+}
+]
+},
+{
+"istat": "108010",
+"comune": "Bovisio-Masciago",
+"sito": "https://www.comune.bovisiomasciago.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.bovisiomasciago.mb.it/servizio/tipologia/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://comune.bovisiomasciago.mb.it/novita/notizia/aggiornamento-albo-presidenti-di-seggio-e-scrutatori-anno-2026/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.bovisiomasciago.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108011",
+"comune": "Briosco",
+"sito": "https://www.comune.briosco.mb.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.briosco.mb.it/novita/avvisi/novita_179.html"
+}
+]
+},
+{
+"istat": "108012",
+"comune": "Brugherio",
+"sito": "https://www.comune.brugherio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://storico.comune.brugherio.mb.it/aree/governo/bandi-di-gara-e-di-concorso/bandi-di-gara/"
+},
+{
+"kind": "albo",
+"url": "https://brugherio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.brugherio.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108013",
+"comune": "Burago di Molgora",
+"sito": "https://www.comune.buragodimolgora.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c015037/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c015037/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://comune.buragodimolgora.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108014",
+"comune": "Camparada",
+"sito": "https://comune.camparada.mb.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.camparada.mb.it/servizi-categoria/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://comune.camparada.mb.it/novita/albo-degli-scrutatori-e-dei-presidenti-di-seggio-aperto-il-bando/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.camparada.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108015",
+"comune": "Carate Brianza",
+"sito": "https://www.comune.caratebrianza.mb.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://caratebrianza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.caratebrianza.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108016",
+"comune": "Carnate",
+"sito": "https://www.comune.carnate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carnate.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108017",
+"comune": "Cavenago di Brianza",
+"sito": "https://www.parcoagricolonordest.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=N1202649&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "http://asp.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1202649"
+},
+{
+"kind": "notizie",
+"url": "https://www.parcoagricolonordest.it/index.php/category/novita/"
+}
+]
+},
+{
+"istat": "108018",
+"comune": "Ceriano Laghetto",
+"sito": "https://www.comune.ceriano-laghetto.mb.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cerianolaghetto.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://cerianolaghetto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ceriano-laghetto.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108019",
+"comune": "Cesano Maderno",
+"sito": "https://www.comune.cesano-maderno.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cesano-maderno.mb.it/servizi-categoria/appalti-pubblici"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cesano-maderno.mb.it/albo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cesano-maderno.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108020",
+"comune": "Cogliate",
+"sito": "https://www.comune.cogliate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cogliate.mb.it/EG0/EGSCHTST26.HBL?en=eg934&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c108020/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cogliate.mb.it/novita/notizie/novita_183.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cogliate.mb.it/novita/comunicati_stampa/novita_306.html"
+}
+]
+},
+{
+"istat": "108021",
+"comune": "Concorezzo",
+"sito": "https://www.comune.concorezzo.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://concorezzo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.concorezzo.mb.it/it/news/albo-dei-presidenti-di-seggio-elettorale-presentazione-candidature"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.concorezzo.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108022",
+"comune": "Correzzana",
+"sito": "https://www.comune.correzzana.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.correzzana.mb.it/EG0/EGSCHTST26.HBL?en=eg517&MESSA=PUBBLICA&SRL=138"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.correzzana.mb.it/novita/notizie/novita_197.html"
+}
+]
+},
+{
+"istat": "108023",
+"comune": "Desio",
+"sito": "https://www.comune.desio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://desio.trasparenza-valutazione-merito.it/web/albo/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.desio.mb.it/it/page/albo-pretorio-ddee5c69-eb3c-4763-8790-41a7cb287f5f"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.desio.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108024",
+"comune": "Giussano",
+"sito": "https://www.comune.giussano.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://albo.comune.giussano.mb.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://albo.comune.giussano.mb.it/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.giussano.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108025",
+"comune": "Lazzate",
+"sito": "https://www.lazzate.com",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.lazzate.mb.it/it/page/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lazzate.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108026",
+"comune": "Lesmo",
+"sito": "https://www.comune.lesmo.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lesmo.mb.it/EG0/EGSCHTST26.HBL?en=e1097&MESSA=PUBBLICA&SRL=117"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c108026/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lesmo.mb.it/novita/comunicati_stampa/novita_268.html"
+}
+]
+},
+{
+"istat": "108027",
+"comune": "Limbiate",
+"sito": "https://www.comune.limbiate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://limbiate.trasparenza-valutazione-merito.it/web/albo/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://comune.limbiate.mb.it/novita/notizia/aggiornamento-dellalbo-dei-presidenti-di-seggio-elettorale/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.limbiate.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108028",
+"comune": "Lissone",
+"sito": "https://www.comune.lissone.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lissone.mb.it/tipi_doc_albo_pretorio/bando-di-gara/"
+},
+{
+"kind": "albo",
+"url": "https://servizilissone.jentecloud.net/jalbopretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lissone.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108029",
+"comune": "Macherio",
+"sito": "https://www.comune.macherio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://macherio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.macherio.mb.it/servizi/Menu/menu_redirect.aspx?url=http%3a%2f%2falboonline.cityware.it%2ffrontOffice%2fap_index.php%3fchidwpsjh%3dMACHERIO&ID=19815&idCat=&TipoElemento=Pagina"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.macherio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=11950"
+}
+]
+},
+{
+"istat": "108030",
+"comune": "Meda",
+"sito": "https://www.comune.meda.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.meda.mb.it/amministrazione-trasparente/bandi-di-gara-e-contratti/informazioni-sulle-singole-procedure-in-formato-tabellare/bandi-di-gara-scaduti/"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.meda.mb.it/amministrazione/documenti-e-dati/bandi-di-gara/"
+},
+{
+"kind": "albo",
+"url": "http://dgegovpa.it/meda/(X(1)S(v5i12u450x4dgq45cvu0vj2u))/albo/albo.aspx?AspxAutoDetectCookieSupport=1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.meda.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108031",
+"comune": "Mezzago",
+"sito": "https://www.comune.mezzago.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200476&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n200476"
+},
+{
+"kind": "notizie",
+"url": "https://comune.mezzago.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108032",
+"comune": "Misinto",
+"sito": "https://www.comune.misinto.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.misinto.mb.it/it/page/bandi-di-gara-e-contratti-488f3213-c873-424d-a610-06b737777b83"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.misinto.mb.it/it/news/aggiornamento-albo-presidenti-di-seggio-anno-2026"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.misinto.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108033",
+"comune": "Monza",
+"sito": "https://www.comune.monza.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.monza.it/it/documenti_pubblici/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monza.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108034",
+"comune": "Muggiò",
+"sito": "https://www.comune.muggio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://muggio.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://muggio.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.muggio.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108035",
+"comune": "Nova Milanese",
+"sito": "https://www.comune.novamilanese.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://novamilanese.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://novamilanese.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.novamilanese.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108036",
+"comune": "Ornago",
+"sito": "https://www.comune.ornago.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ornago.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.ornago.mb.it/it/news/aggiornamento-albi-presidenti-di-seggio-anno-2025"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ornago.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108037",
+"comune": "Renate",
+"sito": "https://www.comune.renate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.renate.mb.it/it/page/appalti-pubblici-90?fromService=1"
+},
+{
+"kind": "albo",
+"url": "http://renate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.renate.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108038",
+"comune": "Ronco Briantino",
+"sito": "https://www.comune.roncobriantino.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.roncobriantino.mb.it/EG0/EGSCHTST26.HBL?en=eg225&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.roncobriantino.mb.it/novita/notizie/novita_333.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roncobriantino.mb.it/novita/avvisi/novita_332.html"
+}
+]
+},
+{
+"istat": "108039",
+"comune": "Seregno",
+"sito": "https://www.comune.seregno.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.seregno.mb.it/it/page/appalti-pubblici-224?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.seregno.mb.it/openweb/albo/albo_pretorio.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.seregno.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108040",
+"comune": "Seveso",
+"sito": "https://www.comune.seveso.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.seveso.mb.it/it/page/115689?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://seveso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?ID_MacroMenu=5"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.seveso.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108041",
+"comune": "Sovico",
+"sito": "https://www.comune.sovico.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sovico.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://comune.sovico.mb.it/novita/notizia/2017-autosave-v1/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sovico.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108042",
+"comune": "Sulbiate",
+"sito": "https://www.comune.sulbiate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c108042/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.sulbiate.mb.it/EG0/EGSCHTST26.HBL?en=eg198&MESSA=PUBBLICA&SRL=95"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sulbiate.mb.it/novita/notizie/novita_509.html"
+}
+]
+},
+{
+"istat": "108043",
+"comune": "Triuggio",
+"sito": "https://www.comune.triuggio.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=205"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.triuggio.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108044",
+"comune": "Usmate Velate",
+"sito": "https://www.comune.usmatevelate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.usmatevelate.mb.it/EG0/EGSCHTST26.HBL?en=eg757&MESSA=PUBBLICA&SRL=118"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.usmatevelate.mb.it/novita/avvisi/novita_2611.html"
+}
+]
+},
+{
+"istat": "108045",
+"comune": "Varedo",
+"sito": "https://www.comune.varedo.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.varedo.mb.it/servizi/menu/dinamica.aspx?ID=22414"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.varedo.mb.it/servizi/Menu/dinamica.aspx?ID=20021"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.varedo.mb.it/servizi/notizie/notizie_homepage.aspx?lang=1"
+}
+]
+},
+{
+"istat": "108046",
+"comune": "Vedano al Lambro",
+"sito": "https://www.comune.vedanoallambro.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Vedanoallambro/Trasparenza/bandigaracontratti2.aspx"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.vedanoallambro.mb.it/novita/aggiornamento-albo-dei-presidenti-di-seggio-2/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vedanoallambro.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108047",
+"comune": "Veduggio con Colzano",
+"sito": "https://www.comune.veduggioconcolzano.mb.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.veduggioconcolzano.mb.it/it/news/iscrizione-albo-presidenti-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.veduggioconcolzano.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108048",
+"comune": "Verano Brianza",
+"sito": "https://www.comune.veranobrianza.mb.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://veranobrianza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.veranobrianza.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108049",
+"comune": "Villasanta",
+"sito": "https://www.comune.villasanta.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.comune.villasanta.mb.it/cmsvillasanta/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=80"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.villasanta.mb.it/cmsvillasanta/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villasanta.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108050",
+"comune": "Vimercate",
+"sito": "https://www.comune.vimercate.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vimercate.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108051",
+"comune": "Busnago",
+"sito": "https://www.comune.busnago.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.busnago.mb.it/it/page/bandi-di-gara-e-contratti-4"
+},
+{
+"kind": "albo",
+"url": "https://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.busnago.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108052",
+"comune": "Caponago",
+"sito": "https://www.comune.caponago.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://caponago.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.caponago.mb.it/it/page/95914"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.caponago.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108053",
+"comune": "Cornate d'Adda",
+"sito": "https://www.comune.cornatedadda.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cornatedadda.mb.it/it/page/108334?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cornatedadda.mb.it/it/news/iscrizione-all-albo-dei-presidenti-di-seggio-e-degli-scrutatori?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cornatedadda.mb.it/it/menu/news"
+}
+]
+},
+{
+"istat": "108054",
+"comune": "Lentate sul Seveso",
+"sito": "https://www.comune.lentatesulseveso.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://portale.comune.lentatesulseveso.mb.it/openweb/trasparenza/categoria.php?id=28"
+},
+{
+"kind": "albo",
+"url": "http://lentate.soluzionipa.it/openweb/albo/albo_pretorio.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.lentatesulseveso.mb.it/novita/"
+}
+]
+},
+{
+"istat": "108055",
+"comune": "Roncello",
+"sito": "https://www.comune.roncello.mb.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://roncello.halleyweb.it/index.php?servizio=35"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.roncello.mb.it/novita/notizie/novita_174.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roncello.mb.it/novita/notizie/novita_176.html"
+}
+]
+}
+]
+}

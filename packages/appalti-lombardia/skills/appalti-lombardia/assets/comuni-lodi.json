@@ -1,0 +1,1096 @@
+{
+"provincia": "Lodi",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "098001",
+"comune": "Abbadia Cerreto",
+"sito": "https://www.comune.abbadiacerreto.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200521&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://comune.abbadiacerreto.lo.it/notizie/3471536/aggiornamento-albi-presidenti-scrutatori-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.abbadiacerreto.lo.it/novita"
+}
+]
+},
+{
+"istat": "098002",
+"comune": "Bertonico",
+"sito": "https://www.comune.bertonico.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://bertonico.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://bertonico.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=898"
+}
+]
+},
+{
+"istat": "098003",
+"comune": "Boffalora d'Adda",
+"sito": "https://www.comune.boffaloradadda.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200520&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://comune.boffaloradadda.lo.it/notizie/3041107/aggiornamento-albo-scrutatori-presidenti-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.boffaloradadda.lo.it/novita"
+}
+]
+},
+{
+"istat": "098004",
+"comune": "Borghetto Lodigiano",
+"sito": "https://www.comune.borghettolodigiano.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://borghettolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio;jsessionid=16E8799C90D35AD89863CF108BB23FD2"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borghettolodigiano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098005",
+"comune": "Borgo San Giovanni",
+"sito": "https://www.comune.borgosangiovanni.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.borgosangiovanni.lo.it/amministrazione-2/albo-pretorio/"
+}
+]
+},
+{
+"istat": "098006",
+"comune": "Brembio",
+"sito": "https://www.comune.brembio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://brembio.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.brembio.lo.it/amministrazione/albo-pretorio/"
+}
+]
+},
+{
+"istat": "098008",
+"comune": "Casaletto Lodigiano",
+"sito": "https://www.comune.casalettolodigiano.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c098008/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c098008/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casalettolodigiano.lo.it/avvisi-pubblici"
+}
+]
+},
+{
+"istat": "098009",
+"comune": "Casalmaiocco",
+"sito": "https://www.comune.casalmaiocco.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza;jsessionid=D13E00925E0B500AE9C20B82F91040C0"
+},
+{
+"kind": "albo",
+"url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casalmaiocco.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098010",
+"comune": "Casalpusterlengo",
+"sito": "https://www.comune.casalpusterlengo.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.comune.casalpusterlengo.lo.it/cmscasalpusterlengo/listaservizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casalpusterlengo.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098011",
+"comune": "Caselle Landi",
+"sito": "https://www.comune.casellelandi.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c098011/zf/index.php/bandi-gara/bandi-gara/bandi-fas/sez/2"
+},
+{
+"kind": "albo",
+"url": "http://halleyweb.com/c098011/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casellelandi.lo.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "098012",
+"comune": "Caselle Lurani",
+"sito": "https://www.comune.casellelurani.lo.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c098012/zf/index.php/trasparenza/index/index/categoria/198"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.casellelurani.lo.it/node/608"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casellelurani.lo.it/avvisi-pubblici"
+}
+]
+},
+{
+"istat": "098013",
+"comune": "Castelnuovo Bocca d'Adda",
+"sito": "https://www.comune.castelnuovoboccadadda.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castelnuovoboccadadda.lo.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.castelnuovoboccadadda.lo.it/zf/index.php/bandi-di-gara/bandi-di-gara/bando/sezione/archivio/sidx/DATA_PUBBLICAZIONE/sord/desc/page/18/cigBando/Z7B3543CBE/serialBando/1239"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.castelnuovoboccadadda.lo.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelnuovoboccadadda.lo.it/c098013/po/elenco_news.php?x=&area=&tags=11"
+}
+]
+},
+{
+"istat": "098014",
+"comune": "Castiglione d'Adda",
+"sito": "https://www.comune.castiglionedadda.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n000026&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.castiglionedadda.lo.it/novita/albo-scrutatori-di-seggio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.castiglionedadda.lo.it/novita/"
+}
+]
+},
+{
+"istat": "098015",
+"comune": "Castiraga Vidardo",
+"sito": "https://www.comune.castiragavidardo.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://castiragavidardo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castiragavidardo.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098017",
+"comune": "Cavenago d'Adda",
+"sito": "https://www.comune.cavenagodadda.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.cavenagodadda.lo.it/documenti/2103943/1-4-5-digitalizzazione-avvisi-pubblici"
+},
+{
+"kind": "albo",
+"url": "https://comune.cavenagodadda.lo.it/notizie/3657127/iscrizioni-albo-presidenti-seggio-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cavenagodadda.lo.it/novita"
+}
+]
+},
+{
+"istat": "098018",
+"comune": "Cervignano d'Adda",
+"sito": "https://www.comune.cervignanodadda.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cervignanodadda.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://cervignanodadda.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cervignanodadda.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098019",
+"comune": "Codogno",
+"sito": "https://comune.codogno.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.codogno.lo.it/tipi_notizia/bando/"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.comune.codogno.lo.it/cmscodogno/portale/albopretorio/albopretorioconsultazione.aspx?P=6500"
+},
+{
+"kind": "notizie",
+"url": "https://comune.codogno.lo.it/novita/"
+}
+]
+},
+{
+"istat": "098020",
+"comune": "Comazzo",
+"sito": "https://www.comune.comazzo.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.comazzo.lo.it/EG0/EGSCHTST26.HBL?en=eg893&MESSA=PUBBLICA&SRL=143"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.comazzo.lo.it/novita/avvisi/novita_181.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.comazzo.lo.it/novita/notizie/novita_179.html"
+}
+]
+},
+{
+"istat": "098021",
+"comune": "Cornegliano Laudense",
+"sito": "https://www.comune.cornegliano.laudense.lo.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.cornegliano.laudense.lo.it",
+"browser": true
+}
+]
+},
+{
+"istat": "098022",
+"comune": "Corno Giovine",
+"sito": "https://www.comune.cornogiovine.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.cornogiovine.lo.it/it/news/iscrizione-albo-scrutatori-e-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cornogiovine.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098023",
+"comune": "Cornovecchio",
+"sito": "https://www.comune.cornovecchio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cornovecchio.lo.it/c098023/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cornovecchio.lo.it/c098023/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cornovecchio.lo.it/c098023/po/elenco_news.php?x=&area=&tags=1"
+}
+]
+},
+{
+"istat": "098024",
+"comune": "Corte Palasio",
+"sito": "https://www.comune.cortepalasio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200288&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1200288"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cortepalasio.lo.it/novita"
+}
+]
+},
+{
+"istat": "098025",
+"comune": "Crespiatica",
+"sito": "https://www.comune.crespiatica.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200519&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n1200519"
+},
+{
+"kind": "notizie",
+"url": "https://comune.crespiatica.lo.it/novita"
+}
+]
+},
+{
+"istat": "098026",
+"comune": "Fombio",
+"sito": "https://www.comune.fombio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://fombio.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://fombio.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.fombio.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098027",
+"comune": "Galgagnano",
+"sito": "https://www.comune.galgagnano.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.galgagnano.lo.it/it/news/aggiornamento-annuale-dell-albo-presidenti-di-seggio-1898382-2035290"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.galgagnano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098028",
+"comune": "Graffignana",
+"sito": "https://www.comune.graffignana.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.graffignana.lo.it/it/news/iscrizione-all-albo-dei-presidenti-di-seggio?type=1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.graffignana.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098029",
+"comune": "Guardamiglio",
+"sito": "https://www.comune.guardamiglio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://guardamiglio.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.guardamiglio.lo.it/it/news/iscrizione-all-albo-delle-persone-idonee-all-ufficio-di-scrutatore-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.guardamiglio.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098030",
+"comune": "Livraga",
+"sito": "https://www.comune.livraga.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.livraga.lo.it/c098030/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.livraga.lo.it/c098030/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.livraga.lo.it/c098030/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.livraga.lo.it/c098030/po/elenco_news.php?x=&area=&tags=1"
+}
+]
+},
+{
+"istat": "098031",
+"comune": "Lodi",
+"sito": "https://www.comune.lodi.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://lodi.e-pal.it/L190/?idSezione=170830&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://www.comune.lodi.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2209"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lodi.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12952"
+}
+]
+},
+{
+"istat": "098032",
+"comune": "Lodi Vecchio",
+"sito": "https://www.comune.lodivecchio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://lodivecchio.etrasparenza.it/pagina566_bandi-di-gara-e-contratti.html"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmslodivecchio/portale/albopretorio/albopretorioconsultazione.aspx?&P=400&S=200&U=1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lodivecchio.lo.it/pagina133689_novit.html?tipologia=comunicati stampa"
+}
+]
+},
+{
+"istat": "098033",
+"comune": "Maccastorna",
+"sito": "https://www.comune.maccastorna.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.maccastorna.lo.it/c098033/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.maccastorna.lo.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "098034",
+"comune": "Mairago",
+"sito": "https://www.comune.mairago.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mairago.lo.it/c098034/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.mairago.lo.it/c098034/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.mairago.lo.it/c098034/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mairago.lo.it/c098034/po/po_p_eventi.php?idinfo=9&amp;idtipo=1"
+}
+]
+},
+{
+"istat": "098035",
+"comune": "Maleo",
+"sito": "https://www.comune.maleo.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune.maleo.lo.it/documenti/2399037/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.maleo.lo.it/novita"
+}
+]
+},
+{
+"istat": "098036",
+"comune": "Marudo",
+"sito": "https://www.comune.marudo.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://marudo.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://marudo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.marudo.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098037",
+"comune": "Massalengo",
+"sito": "https://www.comune.massalengo.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c098037/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+},
+{
+"kind": "albo",
+"url": "https://comune.massalengo.lo.it/notizie/3660369/aggiornamento-albo-presidenti-seggio-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://comune.massalengo.lo.it/novita"
+}
+]
+},
+{
+"istat": "098038",
+"comune": "Meleti",
+"sito": "https://www.comune.meleti.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.meleti.lo.it/c098038/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.meleti.lo.it/c098038/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.meleti.lo.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.meleti.lo.it/c098038/po/elenco_news.php?x=&area=&tags=6"
+}
+]
+},
+{
+"istat": "098039",
+"comune": "Merlino",
+"sito": "https://www.comune.merlino.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c098039/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c098039/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "albo",
+"url": "https://comune.merlino.lo.it/notizie/3655157/albo-persone-idonee-ufficio-presidente-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.merlino.lo.it/novita"
+}
+]
+},
+{
+"istat": "098040",
+"comune": "Montanaso Lombardo",
+"sito": "https://www.comune.montanaso.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://montanasolombardo.trasparenza-valutazione-merito.it/amministrazione-trasparente"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.montanaso.lo.it/it/page/62163"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montanaso.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098041",
+"comune": "Mulazzano",
+"sito": "https://www.comune.mulazzano.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.mulazzano.lo.it/it/news/iscrizione-all-albo-degli-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mulazzano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098042",
+"comune": "Orio Litta",
+"sito": "https://www.comune.oriolitta.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n59066&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n59066"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.oriolitta.lo.it/novita/"
+}
+]
+},
+{
+"istat": "098043",
+"comune": "Ospedaletto Lodigiano",
+"sito": "https://www.comune.ospedalettolodigiano.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ospedalettolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://ospedalettolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ospedalettolodigiano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098044",
+"comune": "Ossago Lodigiano",
+"sito": "https://www.comune.ossagolodigiano.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://ossagolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ossagolodigiano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098045",
+"comune": "Pieve Fissiraga",
+"sito": "https://www.comune.pieve-fissiraga.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200691&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "http://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1200691"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pieve-fissiraga.lo.it/it-it/novita"
+}
+]
+},
+{
+"istat": "098046",
+"comune": "Salerano sul Lambro",
+"sito": "https://www.comune.saleranosullambro.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.saleranosullambro.lo.it/it/news/aggiornamento-annuale-albo-scrutatori-di-seggio-elettorale-2050877"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.saleranosullambro.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098047",
+"comune": "San Fiorano",
+"sito": "https://www.comune.sanfiorano.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1231670&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.sanfiorano.lo.it/novita/iscrizione-e-o-cancellazione-dallalbo-degli-scrutatori-e-o-dei-presidenti-di-seggio-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sanfiorano.lo.it/novita/"
+}
+]
+},
+{
+"istat": "098048",
+"comune": "San Martino in Strada",
+"sito": "https://www.comune.sanmartinoinstrada.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sanmartinoinstrada.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://sanmartinoinstrada.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sanmartinoinstrada.lo.it/novita"
+}
+]
+},
+{
+"istat": "098049",
+"comune": "San Rocco al Porto",
+"sito": "https://www.comune.sanroccoalporto.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sanroccoalporto.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://sanroccoalporto.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanroccoalporto.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098050",
+"comune": "Sant'Angelo Lodigiano",
+"sito": "https://www.comune.santangelolodigiano.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://web.comune.santangelolodigiano.lo.it/cmssangelodigiano/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santangelolodigiano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098051",
+"comune": "Santo Stefano Lodigiano",
+"sito": "https://www.comune.santostefanolodigiano.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://santostefanolodigiano.halleyegov.it/EG0/EGSCHTST26.HBL?en=e1263&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://santostefanolodigiano.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santostefanolodigiano.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098052",
+"comune": "Secugnago",
+"sito": "https://www.comune.secugnago.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c098052/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c098052/zf/index.php/bandi-gara/atti-documenti/tipologie"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.secugnago.lo.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://comune.secugnago.lo.it/novita"
+}
+]
+},
+{
+"istat": "098053",
+"comune": "Senna Lodigiana",
+"sito": "https://www.comune.sennalodigiana.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sennalodigiana.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://sennalodigiana.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sennalodigiana.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098054",
+"comune": "Somaglia",
+"sito": "https://www.comune.somaglia.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssomaglia/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssomaglia/servizionline.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.somaglia.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098055",
+"comune": "Sordio",
+"sito": "https://www.comune.sordio.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200265&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.sordio.lo.it/novita/aggiornamento-albo-scrutatori-di-seggio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sordio.lo.it/novita/"
+}
+]
+},
+{
+"istat": "098056",
+"comune": "Tavazzano con Villavesco",
+"sito": "https://www.comune.tavazzano.lo.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.tavazzano.lo.it",
+"browser": true
+}
+]
+},
+{
+"istat": "098057",
+"comune": "Terranova dei Passerini",
+"sito": "https://www.comune.terranovadeipasserini.lo.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=trrnvpssrn1492"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.terranovadeipasserini.lo.it/Notizie"
+}
+]
+},
+{
+"istat": "098058",
+"comune": "Turano Lodigiano",
+"sito": "https://www.comune.turanolodigiano.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.turanolodigiano.lo.it/EG0/EGSCHTST26.HBL?en=e1759&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://turanolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.turanolodigiano.lo.it/novita/avvisi/novita_3.html"
+}
+]
+},
+{
+"istat": "098059",
+"comune": "Valera Fratta",
+"sito": "https://www.comune.valerafratta.lo.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://valerafratta.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://valerafratta.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valerafratta.lo.it/it/menu/news"
+}
+]
+},
+{
+"istat": "098060",
+"comune": "Villanova del Sillaro",
+"sito": "https://www.comune.villanova.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://villanovadelsillaro.halleyegov.it/EG0/EGSCHTST47.HBL?en=eg895&MESSA=PUBBLICA&SRL=10"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.villanova.lo.it/novita/notizie/novita_322.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villanova.lo.it/novita/notizie/novita_315.html"
+}
+]
+},
+{
+"istat": "098061",
+"comune": "Zelo Buon Persico",
+"sito": "https://www.comune.zelo.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_zelo_buon_persico/110_ban_gar_con/"
+},
+{
+"kind": "albo",
+"url": "https://zelobuonpersico.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zelo.lo.it/it/news/2033946"
+}
+]
+},
+{
+"istat": "098062",
+"comune": "Castelgerundo",
+"sito": "https://www.comune.castelgerundo.lo.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://castelgerundo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "http://castelgerundo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelgerundo.lo.it/it/menu/news"
+}
+]
+}
+]
+}

@@ -1,0 +1,2602 @@
+{
+"provincia": "Como",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "013003",
+"comune": "Albavilla",
+"sito": "https://www.comune.albavilla.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.albavilla.co.it/EG0/EGSCHTST26.HBL?en=eg927&MESSA=PUBBLICA&SRL=91"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albavilla.co.it/novita/notizie/novita_93.html"
+}
+]
+},
+{
+"istat": "013004",
+"comune": "Albese con Cassano",
+"sito": "https://www.comune.albeseconcassano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.albeseconcassano.co.it/EG0/EGSCHTST26.HBL?en=eg154&MESSA=PUBBLICA&SRL=95"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albeseconcassano.co.it/novita/comunicati_stampa/novita_170.html"
+}
+]
+},
+{
+"istat": "013005",
+"comune": "Albiolo",
+"sito": "https://www.comune.albiolo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013005/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013005/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://halleyweb.com/c013005/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.albiolo.co.it/novita"
+}
+]
+},
+{
+"istat": "013006",
+"comune": "Alserio",
+"sito": "https://www.comune.alserio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.alserio.co.it/EG0/EGSCHTST26.HBL?en=eg931&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.alserio.co.it/novita/notizie/novita_134.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.alserio.co.it/novita/notizie/novita_135.html"
+}
+]
+},
+{
+"istat": "013007",
+"comune": "Alzate Brianza",
+"sito": "https://www.comune.alzate-brianza.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013007/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.alzate-brianza.co.it/EG0/EGSCHTST26.HBL?en=eg199&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.alzate-brianza.co.it/novita/avvisi/novita_108.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.alzate-brianza.co.it/novita/avvisi/novita_161.html"
+}
+]
+},
+{
+"istat": "013009",
+"comune": "Anzano del Parco",
+"sito": "https://www.comune.anzano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.anzano.co.it/EG0/EGSCHTST26.HBL?en=eg197&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.anzano.co.it/novita/avvisi/novita_211.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.anzano.co.it/novita/avvisi/novita_212.html"
+}
+]
+},
+{
+"istat": "013010",
+"comune": "Appiano Gentile",
+"sito": "https://www.comune.appianogentile.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200538&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://comune.appianogentile.co.it/notizie/3043685/istanza-iscrizione-albo-presidenti-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.appianogentile.co.it/novita"
+}
+]
+},
+{
+"istat": "013011",
+"comune": "Argegno",
+"sito": "https://www.comune.argegno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.argegno.co.it/EG0/EGSCHTST26.HBL?en=eg552&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.argegno.co.it/novita/notizie/novita_92.html"
+}
+]
+},
+{
+"istat": "013012",
+"comune": "Arosio",
+"sito": "https://www.comune.arosio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.arosio.co.it/EG0/EGSCHTST26.HBL?en=e1038&MESSA=PUBBLICA&SRL=99"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.arosio.co.it/novita/avvisi/novita_310.html"
+}
+]
+},
+{
+"istat": "013013",
+"comune": "Asso",
+"sito": "https://www.comune.asso.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013013/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.asso.co.it/EG0/EGSCHTST26.HBL?en=e1367&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.asso.co.it/novita/comunicati_stampa/novita_174.html"
+}
+]
+},
+{
+"istat": "013015",
+"comune": "Barni",
+"sito": "https://www.comune.barni.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c0013015/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.barni.co.it/EG0/EGSCHTST26.HBL?en=eg941&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barni.co.it/novita/notizie/novita_49.html"
+}
+]
+},
+{
+"istat": "013021",
+"comune": "Bene Lario",
+"sito": "https://www.comune.benelario.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.benelario.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=benelar"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.benelario.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013022",
+"comune": "Beregazzo con Figliaro",
+"sito": "https://www.comune.beregazzoconfigliaro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.beregazzoconfigliaro.co.it/Bandigare?Tipo=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.beregazzoconfigliaro.co.it/Dettaglionews?IDNews=415761"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.beregazzoconfigliaro.co.it/Notizie"
+}
+]
+},
+{
+"istat": "013023",
+"comune": "Binago",
+"sito": "https://www.comune.binago.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013023/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013023/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013023/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://comune.binago.co.it/novita"
+}
+]
+},
+{
+"istat": "013024",
+"comune": "Bizzarone",
+"sito": "https://www.comune.bizzarone.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.bizzarone.co.it/amministrazione-trasparente/sezioni/606294-avvisi-preinformazione"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbizzarone/listaservizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://comune.bizzarone.co.it/notizie/3639575/orari-apertura-pubblico"
+}
+]
+},
+{
+"istat": "013025",
+"comune": "Blessagno",
+"sito": "https://www.comune.blessagno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013025/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/albo_pretorio/_lombardia/_comuni/_blessagno"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.blessagno.co.it/novita/notizie/novita_61.html"
+}
+]
+},
+{
+"istat": "013026",
+"comune": "Blevio",
+"sito": "https://www.comune.blevio.co.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.blevio.co.it/EG0/EGSCHTST26.HBL?en=eg921&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013026/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.blevio.co.it/novita/notizie/novita_85.html"
+}
+]
+},
+{
+"istat": "013028",
+"comune": "Bregnano",
+"sito": "https://www.comune.bregnano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013028/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bregnano.co.it/novita/notizie/novita_140.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bregnano.co.it/novita/notizie/novita_57.html"
+}
+]
+},
+{
+"istat": "013029",
+"comune": "Brenna",
+"sito": "https://www.comune.brenna.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.brenna.co.it/EG0/EGSCHTST26.HBL?en=eg534&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.brenna.co.it/novita/notizie/novita_59.html"
+}
+]
+},
+{
+"istat": "013030",
+"comune": "Brienno",
+"sito": "https://www.comune.brienno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.brienno.co.it/c013030/zf/index.php/trasparenza/index/index/categoria/178"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.brienno.co.it/c013030/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013032",
+"comune": "Brunate",
+"sito": "https://www.comune.brunate.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.brunate.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013034",
+"comune": "Bulgarograsso",
+"sito": "https://www.comune.bulgarograsso.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bulgarograsso.co.it/EG0/EGSCHTST26.HBL?en=eg935&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bulgarograsso.co.it/novita/notizie/novita_188.html"
+}
+]
+},
+{
+"istat": "013035",
+"comune": "Cabiate",
+"sito": "https://www.comune.cabiate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cabiate.co.it/Novita"
+}
+]
+},
+{
+"istat": "013036",
+"comune": "Cadorago",
+"sito": "https://www.comune.cadorago.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cadorago.co.it/EG0/EGSCHTST26.HBL?en=eg549&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cadorago.co.it/novita/notizie/novita_316.html"
+}
+]
+},
+{
+"istat": "013037",
+"comune": "Caglio",
+"sito": "https://www.comune.caglio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.caglio.co.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.caglio.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013040",
+"comune": "Campione d'Italia",
+"sito": "https://www.comune.campione-d-italia.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.campione-d-italia.co.it/EG0/EGSCHTST26.HBL?en=e1091&MESSA=PUBBLICA&SRL=95"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.campione-d-italia.co.it/novita/avvisi/novita_265.html"
+}
+]
+},
+{
+"istat": "013041",
+"comune": "Cantù",
+"sito": "https://www.comune.cantu.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cantu.co.it/EG0/EGSCHTST26.HBL?en=eg404&MESSA=PUBBLICA&SRL=93",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cantu.co.it/novita/avvisi/novita_610.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cantu.co.it/novita/avvisi/novita_617.html"
+}
+]
+},
+{
+"istat": "013042",
+"comune": "Canzo",
+"sito": "https://www.comune.canzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.canzo.co.it/EG0/EGSCHTST26.HBL?en=e1039&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.canzo.co.it/novita/avvisi/novita_148.html"
+}
+]
+},
+{
+"istat": "013043",
+"comune": "Capiago Intimiano",
+"sito": "https://www.comune.capiago-intimiano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.capiago-intimiano.co.it/EG0/EGSCHTST26.HBL?en=eg981&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013043/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.capiago-intimiano.co.it/novita/notizie/novita_219.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.capiago-intimiano.co.it/novita/notizie/novita_219.html"
+}
+]
+},
+{
+"istat": "013044",
+"comune": "Carate Urio",
+"sito": "https://www.comune.carateurio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.carateurio.co.it/EG0/EGSCHTST26.HBL?en=eg214&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.carateurio.co.it/novita/notizie/novita_237.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carateurio.co.it/novita/notizie/novita_238.html"
+}
+]
+},
+{
+"istat": "013045",
+"comune": "Carbonate",
+"sito": "https://www.comune.carbonate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.carbonate.co.it/EG0/EGSCHTST26.HBL?en=eg954&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carbonate.co.it/novita/notizie/novita_13.html"
+}
+]
+},
+{
+"istat": "013046",
+"comune": "Carimate",
+"sito": "https://www.comune.carimate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://carimate.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.carimate.co.it/it/news/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carimate.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013047",
+"comune": "Carlazzo",
+"sito": "https://www.comune.carlazzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.carlazzo.co.it/EG0/EGSCHTST26.HBL?en=e1102&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carlazzo.co.it/novita/notizie/novita_96.html"
+}
+]
+},
+{
+"istat": "013048",
+"comune": "Carugo",
+"sito": "https://www.comune.carugo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://carugo.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.carugo.co.it/it/news/scrutatori-dei-seggi-elettorali-aggiornamento-dell-albo-unico-comunale-2050858"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carugo.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013052",
+"comune": "Caslino d'Erba",
+"sito": "https://www.comune.caslinoderba.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.caslinoderba.co.it/EG0/EGSCHTST26.HBL?en=eg210&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.caslinoderba.co.it/novita/notizie/novita_14.html"
+}
+]
+},
+{
+"istat": "013053",
+"comune": "Casnate con Bernate",
+"sito": "https://www.comune.casnateconbernate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013053/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casnateconbernate.co.it/novita/avvisi/novita_107.html"
+}
+]
+},
+{
+"istat": "013055",
+"comune": "Cassina Rizzardi",
+"sito": "https://www.comune.cassinarizzardi.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/portale/albopretorio/albopretorioconsultazione.aspx?P=600"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassinarizzardi.co.it/it/news"
+}
+]
+},
+{
+"istat": "013058",
+"comune": "Castelmarte",
+"sito": "https://www.comune.castelmarte.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castelmarte.co.it/EG0/EGSCHTST26.HBL?en=eg536&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013058/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelmarte.co.it/novita/notizie/novita_33.html"
+}
+]
+},
+{
+"istat": "013059",
+"comune": "Castelnuovo Bozzente",
+"sito": "https://www.comune.castelnuovobozzente.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.castelnuovobozzente.co.it/Dettaglionews?IDNews=419647"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelnuovobozzente.co.it/Notizie"
+}
+]
+},
+{
+"istat": "013062",
+"comune": "Cavargna",
+"sito": "https://www.comune.cavargna.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cavargna.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=cavargna"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cavargna.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013063",
+"comune": "Cerano d'Intelvi",
+"sito": "https://www.comune.ceranodintelvi.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013063/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.ceranodintelvi.co.it/novita/notizie/novita_104.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ceranodintelvi.co.it/novita/notizie/novita_85.html"
+}
+]
+},
+{
+"istat": "013064",
+"comune": "Cermenate",
+"sito": "https://www.comune.cermenate.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cermenate.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013065",
+"comune": "Cernobbio",
+"sito": "https://www.comune.cernobbio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cernobbio.co.it/EG0/EGSCHTST26.HBL?en=eg984&MESSA=PUBBLICA&SRL=91",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cernobbio.co.it/novita/notizie/novita_300.html"
+}
+]
+},
+{
+"istat": "013068",
+"comune": "Cirimido",
+"sito": "https://www.comune.cirimido.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cirimido.co.it/EG0/EGSCHTST26.HBL?en=eg263&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cirimido.co.it/novita/notizie/novita_12.html"
+}
+]
+},
+{
+"istat": "013071",
+"comune": "Claino con Osteno",
+"sito": "https://www.comune.clainoconosteno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.clainoconosteno.co.it/servizi-categoria/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/albo_pretorio/_lombardia/_comuni/_claino_con_osteno"
+},
+{
+"kind": "notizie",
+"url": "https://comune.clainoconosteno.co.it/novita/"
+}
+]
+},
+{
+"istat": "013074",
+"comune": "Colonno",
+"sito": "https://www.comune.colonno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=220"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.colonno.co.it/it/news/aggiornamento-dell-albo-delle-persone-idonee-all-ufficio-di-scrutatori-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.colonno.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013075",
+"comune": "Como",
+"sito": "https://www.comune.como.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.como.it/amministrazione-trasparente/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.como.it/servizi/Consultazione-dellAlbo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.como.it/novita/"
+}
+]
+},
+{
+"istat": "013077",
+"comune": "Corrido",
+"sito": "https://www.comune.corrido.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.corrido.co.it/c013077/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.corrido.co.it/c013077/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013083",
+"comune": "Cremia",
+"sito": "https://www.comune.cremia.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cremia.co.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cremia.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013084",
+"comune": "Cucciago",
+"sito": "https://www.comune.cucciago.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013084/zf/index.php/trasparenza/index/index"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013084/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cucciago.co.it/novita"
+}
+]
+},
+{
+"istat": "013085",
+"comune": "Cusino",
+"sito": "https://www.comune.cusino.co.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.cusino.co.it/hh/index.php",
+"browser": true
+}
+]
+},
+{
+"istat": "013087",
+"comune": "Dizzasco",
+"sito": "https://www.comune.dizzasco.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.dizzasco.co.it/c013087/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://dizzascoegov.halleyas.com/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dizzasco.co.it/c013087/po/elenco_news.php?x=&area=&tags=2"
+}
+]
+},
+{
+"istat": "013089",
+"comune": "Domaso",
+"sito": "https://www.comune.domaso.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.domaso.co.it/novita/notizie/novita_58.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.domaso.co.it/novita/notizie/novita_66.html"
+}
+]
+},
+{
+"istat": "013090",
+"comune": "Dongo",
+"sito": "https://www.comune.dongo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013090/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dongo.co.it/novita/notizie/novita_145.html"
+}
+]
+},
+{
+"istat": "013092",
+"comune": "Dosso del Liro",
+"sito": "https://www.comune.dossodelliro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.dossodelliro.co.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.dossodelliro.co.it/c013092/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.dossodelliro.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013095",
+"comune": "Erba",
+"sito": "https://www.comune.erba.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013095/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.erba.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013097",
+"comune": "Eupilio",
+"sito": "https://www.comune.eupilio.co.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.eupilio.co.it/novita/notizie/novita_140.html"
+}
+]
+},
+{
+"istat": "013098",
+"comune": "Faggeto Lario",
+"sito": "https://www.comune.faggetolario.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013098/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.faggetolario.co.it/novita/notizie/novita_92.html"
+}
+]
+},
+{
+"istat": "013099",
+"comune": "Faloppio",
+"sito": "https://www.comune.faloppio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.faloppio.co.it/amministrazione-trasparente/sezioni/606594-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://comune.faloppio.co.it/notizie/3475349/iscrizione-albo-scrutatrici-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://comune.faloppio.co.it/notizie/2863431/myfaloppio-nuova-app-comune"
+}
+]
+},
+{
+"istat": "013100",
+"comune": "Fenegrò",
+"sito": "https://www.comune.fenegro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.fenegro.co.it/EG0/EGSCHTST26.HBL?en=eg135&MESSA=PUBBLICA&SRL=127"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.fenegro.co.it/novita/avvisi/novita_1090.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.fenegro.co.it/novita/avvisi/novita_1073.html"
+}
+]
+},
+{
+"istat": "013101",
+"comune": "Figino Serenza",
+"sito": "https://www.comune.figinoserenza.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza;jsessionid=A2C4BB128B9B46AA4DCF95699C73CDDE"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.figinoserenza.co.it/it/news/domanda-di-iscrizione-allalbo-degli-scrutatori-e-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.figinoserenza.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013106",
+"comune": "Garzeno",
+"sito": "https://www.comune.garzeno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.garzeno.co.it/it/page/appalti-pubblici-343?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://garzeno.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.garzeno.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013107",
+"comune": "Gera Lario",
+"sito": "https://www.comune.geralario.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.geralario.co.it/EG0/EGSCHTST26.HBL?en=e1376&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.geralario.co.it/novita/notizie/novita_41.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.geralario.co.it/novita/notizie/novita_40.html"
+}
+]
+},
+{
+"istat": "013110",
+"comune": "Grandate",
+"sito": "https://www.comune.grandate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013110/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.grandate.co.it/EG0/EGSCHTST26.HBL?en=eg159&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.grandate.co.it/novita/avvisi/novita_449.html"
+}
+]
+},
+{
+"istat": "013111",
+"comune": "Grandola ed Uniti",
+"sito": "https://www.comune.grandolaeduniti.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.grandolaeduniti.co.it/c013111/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.grandolaeduniti.co.it/c013111/zf/index.php/atti-generali/index/dettaglio-atto/atto/64tariffe%20non%20reperibili"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.grandolaeduniti.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013113",
+"comune": "Griante",
+"sito": "https://www.comune.griante.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.arera.it/stampa-bandi-gara"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.griante.co.it/it/news/avviso-pubblico-iscrizione-all-albo-degli-scrutatori-di-seggio-elettorale?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.griante.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013114",
+"comune": "Guanzate",
+"sito": "https://www.comune.guanzate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013114/zf/index.php/bandi-gara/bandi-gara/bandi/table-bandi-gara-page/36"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013114/zf/index.php/bandi-di-gara/bandi-di-gara/bando/sezione/attivi/sidx/DATA_SCADENZA/sord/desc/page/1/cigBando/Z511C94172/serialBando/372"
+},
+{
+"kind": "albo",
+"url": "https://comune.guanzate.co.it/notizie/3657722/albo-unico-persone-idonee-ufficio-scrutatore"
+},
+{
+"kind": "notizie",
+"url": "https://comune.guanzate.co.it/novita"
+}
+]
+},
+{
+"istat": "013118",
+"comune": "Inverigo",
+"sito": "https://www.comune.inverigo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.inverigo.co.it/EG0/EGSCHTST26.HBL?en=eg942&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013118/zf/index.php/trasparenza/index/index/categoria/209"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.inverigo.co.it/novita/notizie/novita_1.html"
+}
+]
+},
+{
+"istat": "013119",
+"comune": "Laglio",
+"sito": "https://www.comune.laglio.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmslaglio/servizionline.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.laglio.co.it/novita"
+}
+]
+},
+{
+"istat": "013120",
+"comune": "Laino",
+"sito": "https://www.comune.laino.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.laino.co.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.laino.co.it/c013120/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.laino.co.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.laino.co.it/c013120/po/elenco_news.php?x=&area=&tags=2"
+}
+]
+},
+{
+"istat": "013121",
+"comune": "Lambrugo",
+"sito": "https://www.comune.lambrugo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lambrugo.co.it/EG0/EGSCHTST26.HBL?en=eg962&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.lambrugo.co.it/novita/notizie/novita_89.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lambrugo.co.it/novita/notizie/novita_89.html"
+}
+]
+},
+{
+"istat": "013123",
+"comune": "Lasnigo",
+"sito": "https://www.comune.lasnigo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013123/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lasnigo.co.it/novita/avvisi/novita_62.html"
+}
+]
+},
+{
+"istat": "013126",
+"comune": "Lezzeno",
+"sito": "https://www.comune.lezzeno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lezzeno.co.it/EG0/EGSCHTST26.HBL?en=eg986&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lezzeno.co.it/novita/notizie/novita_33.html"
+}
+]
+},
+{
+"istat": "013128",
+"comune": "Limido Comasco",
+"sito": "https://www.comune.limidocomasco.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.limidocomasco.co.it/EG0/EGSCHTST26.HBL?en=eg401&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.limidocomasco.co.it/novita/notizie/novita_135.html"
+}
+]
+},
+{
+"istat": "013129",
+"comune": "Lipomo",
+"sito": "https://www.comune.lipomo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lipomo.co.it/EG0/EGSCHTST26.HBL?en=e1044&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lipomo.co.it/novita/notizie/novita_133.html"
+}
+]
+},
+{
+"istat": "013130",
+"comune": "Livo",
+"sito": "https://www.comune.livo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013130/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013130/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.livo.co.it/novita/notizie/novita_5.html"
+}
+]
+},
+{
+"istat": "013131",
+"comune": "Locate Varesino",
+"sito": "https://www.comune.locatevaresino.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.locatevaresino.co.it/novita/notizie/novita_203.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.locatevaresino.co.it/novita/notizie/novita_194.html"
+}
+]
+},
+{
+"istat": "013133",
+"comune": "Lomazzo",
+"sito": "https://www.comune.lomazzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lomazzo.co.it/EG0/EGSCHTST26.HBL?en=eg993&MESSA=PUBBLICA&SRL=106",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lomazzo.co.it/novita/notizie/novita_208.html"
+}
+]
+},
+{
+"istat": "013134",
+"comune": "Longone al Segrino",
+"sito": "https://www.comune.longonealsegrino.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.longonealsegrino.co.it/c013134/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.longonealsegrino.co.it/c013134/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.longonealsegrino.co.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.longonealsegrino.co.it/c013134/po/elenco_news.php?x=&area=&tags=13"
+}
+]
+},
+{
+"istat": "013135",
+"comune": "Luisago",
+"sito": "https://www.comune.luisago.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.luisago.co.it/servizi/Menu/dinamica.aspx?idSezione=18971&idArea=18972&idCat=18980&ID=18980&TipoElemento=categoria"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.luisago.co.it/servizi/notizie/notizie_fase01.aspx"
+}
+]
+},
+{
+"istat": "013136",
+"comune": "Lurago d'Erba",
+"sito": "https://www.comune.luragoderba.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.luragoderba.co.it/it/page/114908?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.luragoderba.co.it/it/news/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-1-2023-1722889-1884579"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.luragoderba.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013137",
+"comune": "Lurago Marinone",
+"sito": "https://www.comune.luragomarinone.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.luragomarinone.co.it/EG0/EGSCHTST26.HBL?en=eg545&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.luragomarinone.co.it/novita/avvisi/novita_133.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.luragomarinone.co.it/novita/avvisi/novita_133.html"
+}
+]
+},
+{
+"istat": "013138",
+"comune": "Lurate Caccivio",
+"sito": "https://www.comune.luratecaccivio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "http://luratecaccivio.trasparenza-valutazione-merito.it/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.luratecaccivio.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013139",
+"comune": "Magreglio",
+"sito": "https://www.comune.magreglio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013139/zf/index.php/trasparenza/index/index/categoria/132"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013139/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.magreglio.co.it/novita/"
+}
+]
+},
+{
+"istat": "013143",
+"comune": "Mariano Comense",
+"sito": "https://www.comune.mariano-comense.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://mariano-comense.traspare.com/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.mariano-comense.co.it/it/news/albo-delle-persone-idonee-allufficio-di-presidente-di-seggio-elettorale-2026"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mariano-comense.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013144",
+"comune": "Maslianico",
+"sito": "https://www.comune.maslianico.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.maslianico.co.it/c013144/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.maslianico.co.it/c013144/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.maslianico.co.it/c013144/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013145",
+"comune": "Menaggio",
+"sito": "https://www.comune.menaggio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.menaggio.co.it/EG0/EGSCHTST26.HBL?en=eg224&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.menaggio.co.it/novita/notizie/novita_108.html"
+}
+]
+},
+{
+"istat": "013147",
+"comune": "Merone",
+"sito": "https://www.comune.merone.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.merone.co.it/EG0/EGSCHTST26.HBL?en=e1046&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013147/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.merone.co.it/novita/avvisi/novita_145.html"
+}
+]
+},
+{
+"istat": "013152",
+"comune": "Moltrasio",
+"sito": "https://www.comune.moltrasio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.moltrasio.co.it/EG0/EGSCHTST26.HBL?en=eg239&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.moltrasio.co.it/novita/avvisi/novita_118.html"
+}
+]
+},
+{
+"istat": "013153",
+"comune": "Monguzzo",
+"sito": "https://www.comune.monguzzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.monguzzo.co.it/EG0/EGSCHTST47.HBL?en=eg240&MESSA=PUBBLICA&SRL=10"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.monguzzo.co.it/novita/avvisi/novita_192.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monguzzo.co.it/novita/notizie/novita_187.html"
+}
+]
+},
+{
+"istat": "013154",
+"comune": "Montano Lucino",
+"sito": "https://www.comune.montanolucino.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://montanolucino.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "http://montanolucino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montanolucino.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013155",
+"comune": "Montemezzo",
+"sito": "https://comune.montemezzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013155/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.montemezzo.co.it/novita/avvisi/novita_25.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montemezzo.co.it/novita/avvisi/novita_14.html"
+}
+]
+},
+{
+"istat": "013157",
+"comune": "Montorfano",
+"sito": "https://www.comune.montorfano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.montorfano.co.it/EG0/EGSCHTST26.HBL?en=eg152&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montorfano.co.it/novita/notizie/novita_126.html"
+}
+]
+},
+{
+"istat": "013159",
+"comune": "Mozzate",
+"sito": "https://www.comune.mozzate.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mozzate.co.it/EG0/EGSCHTST26.HBL?en=e1048&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.mozzate.co.it/novita/comunicati_stampa/novita_80.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mozzate.co.it/novita/notizie/novita_184.html"
+}
+]
+},
+{
+"istat": "013160",
+"comune": "Musso",
+"sito": "https://www.comune.musso.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.musso.co.it/EG0/EGSCHTST26.HBL?en=e1342&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.musso.co.it/novita/avvisi/novita_62.html"
+}
+]
+},
+{
+"istat": "013161",
+"comune": "Nesso",
+"sito": "https://www.comune.nesso.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013161/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013161/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013161/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.nesso.co.it/novita/"
+}
+]
+},
+{
+"istat": "013163",
+"comune": "Novedrate",
+"sito": "https://www.comune.novedrate.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.novedrate.co.it/it/news/iscrizioni-all-albo-degli-scrutatori-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.novedrate.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013165",
+"comune": "Olgiate Comasco",
+"sito": "https://www.comune.olgiate-comasco.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://olgiate-comasco.portaletrasparenza.net/it/trasparenza/bandi-di-gara-e-contratti.html"
+},
+{
+"kind": "bandi",
+"url": "https://olgiate-comasco.portaletrasparenza.net/it/trasparenza/bandi-di-concorso/bandi-e-avvisi-di-selezione-per-i-quali-e-possibile-presentare-domanda-di-partecipazione.html"
+},
+{
+"kind": "albo",
+"url": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/grid/1233105"
+},
+{
+"kind": "notizie",
+"url": "https://comune.olgiate-comasco.co.it/novita"
+}
+]
+},
+{
+"istat": "013169",
+"comune": "Oltrona di San Mamette",
+"sito": "https://www.comune.oltronadisanmamette.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.oltronadisanmamette.co.it/c013169/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.oltronadisanmamette.co.it/c013169/zf/index.php/bandi-gara/avvisi/avvisi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.oltronadisanmamette.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013170",
+"comune": "Orsenigo",
+"sito": "https://www.comune.orsenigo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.orsenigo.co.it/EG0/EGSCHTST26.HBL?en=eg550&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.orsenigo.co.it/novita/notizie/novita_184.html"
+}
+]
+},
+{
+"istat": "013178",
+"comune": "Peglio",
+"sito": "https://www.comune.peglio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.peglio.co.it/EG0/EGSCHTST26.HBL?en=eg533&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013178/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.peglio.co.it/novita/notizie/novita_5.html"
+}
+]
+},
+{
+"istat": "013183",
+"comune": "Pianello del Lario",
+"sito": "https://www.comune.pianellodellario.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013183/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pianellodellario.co.it/novita/notizie/novita_3.html"
+}
+]
+},
+{
+"istat": "013184",
+"comune": "Pigra",
+"sito": "https://www.comune.pigra.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pigra.co.it/EG0/EGSCHTST26.HBL?en=eg944&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pigra.co.it/novita/avvisi/novita_114.html"
+}
+]
+},
+{
+"istat": "013185",
+"comune": "Plesio",
+"sito": "https://www.comune.plesio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.plesio.co.it/EG0/EGSCHTST26.HBL?en=e1349&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.plesio.co.it/novita/notizie/novita_96.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.plesio.co.it/novita/notizie/novita_80.html"
+}
+]
+},
+{
+"istat": "013186",
+"comune": "Pognana Lario",
+"sito": "https://www.comune.pognanalario.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013186/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pognanalario.co.it/novita/notizie/novita_40.html"
+}
+]
+},
+{
+"istat": "013187",
+"comune": "Ponna",
+"sito": "https://www.comune.ponna.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.ponna.co.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.ponna.co.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.ponna.co.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ponna.co.it/c013187/po/elenco_news.php?x=&area=&tags=1"
+}
+]
+},
+{
+"istat": "013188",
+"comune": "Ponte Lambro",
+"sito": "https://www.comune.pontelambro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://pontelambro.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.pontelambro.co.it/it/news/iscrizione-all-albo-degli-scrutatori-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pontelambro.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013189",
+"comune": "Porlezza",
+"sito": "https://www.comune.porlezza.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.porlezza.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://porlezza.traspare.com/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.porlezza.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013192",
+"comune": "Proserpio",
+"sito": "https://www.comune.proserpio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.proserpio.co.it/EG0/EGSCHTST26.HBL?en=e1375&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.proserpio.co.it/novita/avvisi/novita_82.html"
+}
+]
+},
+{
+"istat": "013193",
+"comune": "Pusiano",
+"sito": "https://www.comune.pusiano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013193/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://comune.pusiano.co.it/novita/avviso-per-iscrizione-albo-presidenti-di-seggio-elettorale-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.pusiano.co.it/novita/"
+}
+]
+},
+{
+"istat": "013195",
+"comune": "Rezzago",
+"sito": "https://www.comune.rezzago.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rezzago.co.it/EG0/EGSCHTST26.HBL?en=eg245&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rezzago.co.it/novita/notizie/novita_49.html"
+}
+]
+},
+{
+"istat": "013197",
+"comune": "Rodero",
+"sito": "https://www.comune.rodero.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rodero.co.it/EG0/EGSCHTST26.HBL?en=eg922&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013197/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rodero.co.it/novita/notizie/novita_87.html"
+}
+]
+},
+{
+"istat": "013201",
+"comune": "Rovellasca",
+"sito": "https://www.comune.rovellasca.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rovellasca.co.it/EG0/EGSCHTST26.HBL?en=eg681&MESSA=PUBBLICA&SRL=125"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rovellasca.co.it/novita/notizie/novita_1615.html"
+}
+]
+},
+{
+"istat": "013202",
+"comune": "Rovello Porro",
+"sito": "https://www.comune.rovelloporro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013202/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013202/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/archivio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rovelloporro.co.it/novita/notizie/novita_175.html"
+}
+]
+},
+{
+"istat": "013203",
+"comune": "Sala Comacina",
+"sito": "https://www.comune.salacomacina.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.salacomacina.co.it/c013203/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.salacomacina.co.it/c013203/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://salacomacinaegov.halleyas.com/redirect.html?F=MC09"
+}
+]
+},
+{
+"istat": "013204",
+"comune": "San Bartolomeo Val Cavargna",
+"sito": "https://www.comune.sanbartolomeovalcavargna.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sanbartolomeovalcavargna.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=sbartoca"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanbartolomeovalcavargna.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013206",
+"comune": "San Fermo della Battaglia",
+"sito": "https://www.comune.sanfermodellabattaglia.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sanfermodellabattaglia.co.it/EG0/EGSCHTST26.HBL?en=eg937&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sanfermodellabattaglia.co.it/novita/notizie/novita_206.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanfermodellabattaglia.co.it/novita/notizie/novita_34.html"
+}
+]
+},
+{
+"istat": "013207",
+"comune": "San Nazzaro Val Cavargna",
+"sito": "https://www.comune.sannazzarovalcavargna.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sannazzarovalcavargna.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=snazzaro"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sannazzarovalcavargna.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013211",
+"comune": "Schignano",
+"sito": "https://www.comune.schignano.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://albo.apkappa.it/schignano/albo/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.schignano.co.it/vivere-il-comune/dati-generali/notizie"
+}
+]
+},
+{
+"istat": "013212",
+"comune": "Senna Comasco",
+"sito": "https://www.comune.sennacomasco.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013212/zf/index.php/uffici/index/detail/id/9"
+},
+{
+"kind": "albo",
+"url": "https://comune.sennacomasco.co.it/notizie/3658627/aggiornamento-albo-unico-comunale-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sennacomasco.co.it/novita"
+}
+]
+},
+{
+"istat": "013216",
+"comune": "Sorico",
+"sito": "https://www.comune.sorico.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013216/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.sorico.co.it/EG0/EGSCHTST26.HBL?en=eg544&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sorico.co.it/novita/notizie/novita_89.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sorico.co.it/novita/notizie/novita_89.html"
+}
+]
+},
+{
+"istat": "013217",
+"comune": "Sormano",
+"sito": "https://www.comune.sormano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sormano.co.it/EG0/EGSCHTST26.HBL?en=eg977&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013217/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sormano.co.it/novita/notizie/novita_109.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sormano.co.it/novita/notizie/novita_110.html"
+}
+]
+},
+{
+"istat": "013218",
+"comune": "Stazzona",
+"sito": "https://www.comune.stazzona.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.stazzona.co.it/EG0/EGSCHTST26.HBL?en=eg946&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.stazzona.co.it/novita/notizie/novita_31.html"
+}
+]
+},
+{
+"istat": "013222",
+"comune": "Tavernerio",
+"sito": "https://www.comune.tavernerio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.tavernerio.co.it/EG0/EGSCHTST26.HBL?en=eg919&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013222/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.tavernerio.co.it/novita/notizie/novita_149.html"
+}
+]
+},
+{
+"istat": "013223",
+"comune": "Torno",
+"sito": "https://www.comune.torno.co.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.torno.co.it/EG0/EGSCHTST26.HBL?en=eg950&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torno.co.it/novita/notizie/novita_75.html"
+}
+]
+},
+{
+"istat": "013226",
+"comune": "Trezzone",
+"sito": "https://www.comune.trezzone.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013226/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.trezzone.co.it/novita/avvisi/novita_20.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trezzone.co.it/novita/notizie/novita_63.html"
+}
+]
+},
+{
+"istat": "013227",
+"comune": "Turate",
+"sito": "https://www.comune.turate.co.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.turate.co.it/it/news/albo-delle-persone-idonee-all-ufficio-di-presidente-e-o-di-scrutatore-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.turate.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013229",
+"comune": "Valbrona",
+"sito": "https://www.comune.valbrona.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valbrona.co.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.valbrona.co.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.valbrona.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013232",
+"comune": "Valmorea",
+"sito": "https://www.comune.valmorea.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://valmorea.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.valmorea.co.it/it/news/albo-presidenti-di-seggio-2046593"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valmorea.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013233",
+"comune": "Val Rezzo",
+"sito": "https://www.comune.valrezzo.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valrezzo.co.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n74100"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valrezzo.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013234",
+"comune": "Valsolda",
+"sito": "https://www.comune.valsolda.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valsolda.co.it/amm-trasparente/bandi-di-concorso-documenti-e-avvisi/"
+},
+{
+"kind": "albo",
+"url": "https://valsolda.traspare.com/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valsolda.co.it/avvisi/"
+}
+]
+},
+{
+"istat": "013236",
+"comune": "Veleso",
+"sito": "https://www.comune.veleso.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013236/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013236/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.veleso.co.it/novita/"
+}
+]
+},
+{
+"istat": "013238",
+"comune": "Veniano",
+"sito": "https://www.comune.veniano.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.veniano.co.it/EG0/EGSCHTST26.HBL?en=eg241&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://comune.veniano.co.it/novita/avvisi/novita_105.html"
+}
+]
+},
+{
+"istat": "013239",
+"comune": "Vercana",
+"sito": "https://www.comune.vercana.co.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vercana.co.it/EG0/EGSCHTST26.HBL?en=eg968&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.vercana.co.it/novita/avvisi/novita_23.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vercana.co.it/novita/comunicati_stampa/novita_109.html"
+}
+]
+},
+{
+"istat": "013242",
+"comune": "Vertemate con Minoprio",
+"sito": "https://www.comune.vertemateconminoprio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vertemateconminoprio.co.it/EG0/EGSCHTST26.HBL?en=eg964&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vertemateconminoprio.co.it/novita/avvisi/novita_146.html"
+}
+]
+},
+{
+"istat": "013245",
+"comune": "Villa Guardia",
+"sito": "https://www.comune.villaguardia.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://villaguardia.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.villaguardia.co.it/it/news/iscrizione-all-albo-scrutatori-scrutatrici"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villaguardia.co.it/it/menu/news"
+}
+]
+},
+{
+"istat": "013246",
+"comune": "Zelbio",
+"sito": "http://www.comune.zelbio.co.it/hh/index.php",
+"pages": [
+{
+"kind": "home",
+"url": "http://www.comune.zelbio.co.it/hh/index.php",
+"browser": true
+}
+]
+},
+{
+"istat": "013248",
+"comune": "San Siro",
+"sito": "https://comune.sansiro.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013248/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c013248/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sansiro.co.it/novita/"
+}
+]
+},
+{
+"istat": "013249",
+"comune": "Gravedona ed Uniti",
+"sito": "https://www.comune.gravedonaeduniti.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c013249/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gravedonaeduniti.co.it/novita/notizie/novita_24.html"
+}
+]
+},
+{
+"istat": "013250",
+"comune": "Bellagio",
+"sito": "https://www.comune.bellagio.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bellagio.co.it/EG0/EGSCHTST26.HBL?en=eg920&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/bellagio/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bellagio.co.it/novita/comunicati_stampa/novita_154.html"
+}
+]
+},
+{
+"istat": "013251",
+"comune": "Colverde",
+"sito": "https://www.comune.colverde.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.colverde.co.it/amministrazione-trasparente/sezioni/1889222-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://comune.colverde.co.it/notizie/3656831/aggiornamento-albo-unico-comunale-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://comune.colverde.co.it/notizie/3660575/frazione-drezzo-modifica-temporanea-viabilita"
+}
+]
+},
+{
+"istat": "013252",
+"comune": "Tremezzina",
+"sito": "https://www.comune.tremezzina.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.tremezzina.co.it/EG0/EGSCHTST26.HBL?en=eg969&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c013252/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.tremezzina.co.it/novita/notizie/novita_353.html"
+}
+]
+},
+{
+"istat": "013253",
+"comune": "Alta Valle Intelvi",
+"sito": "https://www.comune.altavalleintelvi.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.altavalleintelvi.co.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.altavalleintelvi.co.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.altavalleintelvi.co.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "013254",
+"comune": "Centro Valle Intelvi",
+"sito": "https://www.comune.centrovalleintelvi.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.centrovalleintelvi.co.it/ccntvntv/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.centrovalleintelvi.co.it/ccntvntv/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.centrovalleintelvi.co.it/ccntvntv/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.centrovalleintelvi.co.it/ccntvntv/po/elenco_news.php?x=&area=H&tags=2"
+}
+]
+},
+{
+"istat": "013255",
+"comune": "Solbiate con Cagno",
+"sito": "https://www.comune.solbiateconcagno.co.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.solbiateconcagno.co.it/Bandigare?Tipo=1"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=slbtcncgn1427"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.solbiateconcagno.co.it/Notizie"
+}
+]
+},
+{
+"istat": "013256",
+"comune": "Uggiate con Ronago",
+"sito": "http://www.comune.uggiateconronago.co.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.uggiateconronago.co.it/amministrazione-trasparente/sezioni/2639649-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsuggiateronago/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.uggiateconronago.co.it/novita"
+}
+]
+}
+]
+}
