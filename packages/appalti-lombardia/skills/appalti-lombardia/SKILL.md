@@ -100,7 +100,8 @@ page's absolute path.
    as in the daily run, steps 2 to 5. The first report says monitoring started and from now on
    carries only new notices. Done when the page exists and the owner has it.
 3. **Daily job.** Create one task with the `cronjob` tool: schedule `0 7 * * 1-6` (07:00 Monday to
-   Saturday) or what the owner asks, skill `appalti-lombardia`, `continuity` on so each run sees
+   Saturday) or what the owner asks, this skill by the full name the skill list shows for it
+   (installed from the hub it reads `agent-plugin-appalti-lombardia-<id>:appalti-lombardia`), `continuity` on so each run sees
    the previous report, delivered to the channel the owner names. Done when the job is listed.
 
 ### Every day
