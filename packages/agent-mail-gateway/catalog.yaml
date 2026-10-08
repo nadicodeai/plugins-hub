@@ -1,0 +1,9 @@
+title:
+  en: "Agent mailbox"
+  it: "Casella di posta dell'Agente"
+description:
+  en: "Teaches the Agent to read, answer and send mail, attachments and meeting invites from its own mailbox through Agent Mail Gateway."
+  it: "Insegna all'Agente a leggere, rispondere e inviare email, allegati e inviti a riunioni dalla propria casella tramite Agent Mail Gateway."
+category: email
+icon: inbox
+audience: everyone
