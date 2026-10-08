@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "appalti-lombardia",
+  "version": "1.0.0",
+  "description": "Monitor Lombardy's comuni websites daily for new public works tenders and report the ones that fit.",
+  "author": {
+    "name": "NadicodeAI",
+    "url": "https://nadicode.ai"
+  },
+  "homepage": "https://nadicode.ai",
+  "repository": "https://github.com/nadicodeai/plugins-hub",
+  "keywords": [
+    "appalti",
+    "tenders",
+    "public-procurement",
+    "lombardia"
+  ]
+}

@@ -9,6 +9,7 @@ package from its directory and pins the installation to a full Git commit.
 | Package | Contents | External connections |
 | --- | --- | --- |
 | `research-brief` | One skill for decision-ready, source-backed research briefs | None |
+| `appalti-lombardia` | One skill and its scanner for the daily report of public works tenders published on Lombardy's comuni websites; the map of the province of Bergamo's 243 comuni | The comuni's public websites |
 
 Validate a package with the Hermes release that Nadia carries:
 
