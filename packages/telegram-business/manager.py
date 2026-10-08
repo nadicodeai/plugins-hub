@@ -417,7 +417,7 @@ class BusinessModeManager:
         if not conn:
             await answer(text="Connection no longer exists.")
             return True
-        if caller_user_id and str(caller_user_id) != str(conn.get("owner_user_id")):
+        if not caller_user_id or str(caller_user_id) != str(conn.get("owner_user_id")):
             await answer(text="⛔ Only the connected account owner can use these buttons.")
             return True
 
