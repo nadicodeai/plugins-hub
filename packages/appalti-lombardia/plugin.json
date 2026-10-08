@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "appalti-lombardia",
+  "version": "2.0.0",
+  "description": "Report the public works tenders that Lombardy's 1,502 comuni publish on their own websites, every day, with a page of the open ones.",
+  "author": {
+    "name": "NadicodeAI",
+    "url": "https://nadicode.ai"
+  },
+  "homepage": "https://nadicode.ai",
+  "repository": "https://github.com/nadicodeai/plugins-hub",
+  "keywords": [
+    "appalti",
+    "tenders",
+    "public-procurement",
+    "lombardia"
+  ]
+}

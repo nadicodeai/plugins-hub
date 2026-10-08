@@ -1,0 +1,3262 @@
+{
+"provincia": "Pavia",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "018001",
+"comune": "Alagna",
+"sito": "https://www.comune.alagna.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.alagna.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=lgn1129"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.alagna.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018003",
+"comune": "Albonese",
+"sito": "https://www.comune.albonese.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.apkappa.it/albonese/index.php?option=com_content&view=article&id=154&Itemid=27"
+},
+{
+"kind": "albo",
+"url": "http://albo.studiok.it/albonese/albo/index.php?"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albonese.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018004",
+"comune": "Albuzzano",
+"sito": "https://www.comune.albuzzano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.albuzzano.pv.it/zf/index.php/bandi-di-gara/atti-programmazione/index/page/2/pdf/1/time/1684091300/year/2023"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.albuzzano.pv.it/c018004/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.albuzzano.pv.it/c018004/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "018005",
+"comune": "Arena Po",
+"sito": "https://www.comune.arenapo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.arenapo.pv.it/amministrazione/atti-pubblicazioni/bandi-di-gara"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.arenapo.pv.it/it-it/novita/avvisi/2026/elettorale/iscrizione-all-albo-dei-presidenti-di-seggio-402372-1-6d50280579e23f0381c1485c6787381a"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.arenapo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018006",
+"comune": "Badia Pavese",
+"sito": "https://www.comune.badiapavese.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "http://halleyweb.com/c018006/mc/mc_gridev_messi.php?x=&servizio=&bck="
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.badiapavese.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018007",
+"comune": "Bagnaria",
+"sito": "https://www.comune.bagnaria.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bagnaria.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=bgnr1260"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bagnaria.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018008",
+"comune": "Barbianello",
+"sito": "https://www.comune.barbianello.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.barbianello.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=brbnll467"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barbianello.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018009",
+"comune": "Bascapè",
+"sito": "https://www.comune.bascape.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.apkappa.it/bascape/index.php?option=com_content&view=article&id=154&Itemid=27"
+},
+{
+"kind": "albo",
+"url": "https://albo.studiok.it/bascape/albo/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bascape.pv.it/it/news"
+}
+]
+},
+{
+"istat": "018011",
+"comune": "Bastida Pancarana",
+"sito": "https://www.comune.bastidapancarana.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bastidapancarana.pv.it/EG0/EGSCHTST26.HBL?en=egt96&MESSA=PUBBLICA&SRL=90",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bastidapancarana.pv.it/novita/avvisi/novita_145.html"
+}
+]
+},
+{
+"istat": "018012",
+"comune": "Battuda",
+"sito": "https://www.comune.battuda.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.battuda.pv.it/EG0/EGSCHTST26.HBL?en=e1623&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.battuda.pv.it/novita/avvisi/novita_546.html"
+}
+]
+},
+{
+"istat": "018013",
+"comune": "Belgioioso",
+"sito": "https://www.comune.belgioioso.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://belgioioso.halleyweb.it/c018013/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "bandi",
+"url": "https://belgioioso.halleyweb.it/c018013/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/archivio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.belgioioso.pv.it/novita/notizie/novita_795.html"
+}
+]
+},
+{
+"istat": "018014",
+"comune": "Bereguardo",
+"sito": "https://www.comune.bereguardo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bereguardo.pv.it/c018014/zf/index.php/trasparenza/index/index/categoria/80"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bereguardo.pv.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "http://www.ansa.it/?refresh_ce"
+}
+]
+},
+{
+"istat": "018015",
+"comune": "Borgarello",
+"sito": "https://www.comune.borgarello.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.borgarello.pv.it/EG0/EGSCHTST52.HBL?en=eg829&MESSA=PUBBLICA&SRL=124"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgarello.pv.it/novita/avvisi/novita_2090.html"
+}
+]
+},
+{
+"istat": "018016",
+"comune": "Borgo Priolo",
+"sito": "https://www.comune.borgopriolo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.borgopriolo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=brgprl742"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgopriolo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018017",
+"comune": "Borgoratto Mormorolo",
+"sito": "https://www.comune.borgoratto-mormorolo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.borgoratto-mormorolo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=brgrttmrmrl906"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgoratto-mormorolo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018018",
+"comune": "Borgo San Siro",
+"sito": "https://www.comune.borgosansiro.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.borgosansiro.pv.it/Menu?IDDettaglio=112377"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=brgsnsr646"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgosansiro.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018019",
+"comune": "Bornasco",
+"sito": "https://www.comune.bornasco.pv.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.bornasco.pv.it/hh/index.php",
+"browser": true
+}
+]
+},
+{
+"istat": "018020",
+"comune": "Bosnasco",
+"sito": "https://www.comune.bosnasco.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bosnasco.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=bsnsc1135"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bosnasco.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018021",
+"comune": "Brallo di Pregola",
+"sito": "https://www.comune.brallodipregola.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=brlldprgl1449"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.brallodipregola.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018022",
+"comune": "Breme",
+"sito": "https://www.comunebreme.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comunebreme.it",
+"browser": true
+}
+]
+},
+{
+"istat": "018023",
+"comune": "Bressana Bottarone",
+"sito": "https://www.comune.bressanabottarone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bressanabottarone.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bressanabottarone.pv.it/it-it/novita/avvisi/2026/elettorale/iscrizione-all-albo-degli-scrutatori-e-presidenti-di-seggio-363057-1-0cd209a6eec6060650d2d949bf055a1c"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bressanabottarone.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018024",
+"comune": "Broni",
+"sito": "https://www.comune.broni.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://broni.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://broni.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.broni.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018025",
+"comune": "Calvignano",
+"sito": "https://www.comune.calvignano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.calvignano.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=clvgnn1192"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.calvignano.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018026",
+"comune": "Campospinoso Albaredo",
+"sito": "https://www.comune.campospinoso.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=cmpspnslbrd1610"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.campospinoso.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018027",
+"comune": "Candia Lomellina",
+"sito": "https://www.comune.candialomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018027/index.php?servizio=34"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c018027/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.candialomellina.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018029",
+"comune": "Canneto Pavese",
+"sito": "https://WWW.COMUNE.CANNETOPAVESE.PV.IT",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://WWW.COMUNE.CANNETOPAVESE.PV.IT/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=cnntpvs703"
+},
+{
+"kind": "notizie",
+"url": "https://WWW.COMUNE.CANNETOPAVESE.PV.IT/it-it/novita"
+}
+]
+},
+{
+"istat": "018030",
+"comune": "Carbonara al Ticino",
+"sito": "https://www.comune.carbonaraalticino.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.carbonaraalticino.pv.it/trasparenza/bandi-di-gara/"
+},
+{
+"kind": "albo",
+"url": "https://comune.carbonaraalticino.pv.it/novita/aggiornamento-albo-presidenti-di-seggio-elettorale-3/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.carbonaraalticino.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018031",
+"comune": "Casanova Lonati",
+"sito": "https://www.comune.casanovalonati.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?CE=csnvlnt820"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.casanovalonati.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-dell-albo-delle-persone-idonee-all-ufficio-di-presidenti-di-seggio-elettorale-403785-1-b05ededed3fe2e1bccfe5f509198f85f"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casanovalonati.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018032",
+"comune": "Casatisma",
+"sito": "https://www.comune.casatisma.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.casatisma.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-albo-scrutatori-di-seggio-elettorale-401997-1-b6ec6fcb434ff1db83edb14a70e83787"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casatisma.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018033",
+"comune": "Casei Gerola",
+"sito": "https://www.comune.caseigerola.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.caseigerola.pv.it/it/page/140988"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.caseigerola.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018034",
+"comune": "Casorate Primo",
+"sito": "https://www.comune.casorateprimo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscasorateprimo/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscasorateprimo/portale/albopretorio/albopretorioconsultazione.aspx?P=600"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casorateprimo.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018035",
+"comune": "Cassolnovo",
+"sito": "https://www.comune.cassolnovo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018035/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018035/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://comune.cassolnovo.pv.it/novita/notizia/presidente-di-seggio-elettorale-al-via-le-domande-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.cassolnovo.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018036",
+"comune": "Castana",
+"sito": "https://www.comune.castana.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castana.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=cstn705"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castana.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018037",
+"comune": "Casteggio",
+"sito": "https://www.comune.casteggio.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.casteggio.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.casteggio.pv.it/it-it/novita/avvisi/2026/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-elettorale-401585-1-cd68ef07067e568f26ec8af8dad6bfc5"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casteggio.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018038",
+"comune": "Castelletto di Branduzzo",
+"sito": "https://www.comune.castellettodibranduzzo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castellettodibranduzzo.pv.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.castellettodibranduzzo.pv.it/c018038/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.castellettodibranduzzo.pv.it/c018038/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "018039",
+"comune": "Castello d'Agogna",
+"sito": "https://www.comune.castellodagogna.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castellodagogna.pv.it/EG0/EGSCHTST26.HBL?en=e1636&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castellodagogna.pv.it/novita/avvisi/novita_7.html"
+}
+]
+},
+{
+"istat": "018040",
+"comune": "Castelnovetto",
+"sito": "https://www.comune.castelnovetto.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.castelnovetto.pv.it/EG0/EGSCHTST26.HBL?en=eg696&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelnovetto.pv.it/novita/avvisi/novita_11.html"
+}
+]
+},
+{
+"istat": "018041",
+"comune": "Cava Manara",
+"sito": "https://www.comune.cavamanara.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cavamanara.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "http://halleyweb.com/c018041/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cavamanara.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018042",
+"comune": "Cecima",
+"sito": "https://www.comune.cecima.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cecima.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=ccm674"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cecima.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018043",
+"comune": "Ceranova",
+"sito": "https://www.comune.ceranova.pv.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.ceranova.pv.it/novita/avvisi/novita_685.html"
+}
+]
+},
+{
+"istat": "018044",
+"comune": "Ceretto Lomellina",
+"sito": "https://www.comune.cerettolomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cerettolomellina.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cerettolomellina.pv.it/amministrazione/documenti-dati-ext/albo-pretorio-86265"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cerettolomellina.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018045",
+"comune": "Cergnago",
+"sito": "https://www.comune.cergnago.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cergnago.pv.it/Home/Menu?IDDettaglio=166152"
+},
+{
+"kind": "albo",
+"url": "http://www.servizipubblicaamministrazione.it/servizi/saturnweb/home.aspx?ce=crgng547"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cergnago.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018046",
+"comune": "Certosa di Pavia",
+"sito": "https://www.comunecertosadipavia.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comunecertosadipavia.it",
+"browser": true
+}
+]
+},
+{
+"istat": "018047",
+"comune": "Cervesina",
+"sito": "https://www.comune.cervesina.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://albo.studiok.it/cervesina/albo/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cervesina.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018048",
+"comune": "Chignolo Po",
+"sito": "https://www.comune.chignolopo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.bronistradellapubblica.it/amministrazione-trasparente/bandi-di-gara-e-contratti/"
+},
+{
+"kind": "bandi",
+"url": "http://www.bronistradellapubblica.it/amministrazione-trasparente/bandi-di-gara-e-contratti/informazioni-sulle-singole-procedure-in-formato-tabellare/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.chignolopo.pv.it/it/news/iscrizione-albo-presidenti-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.chignolopo.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018049",
+"comune": "Cigognola",
+"sito": "https://www.comune.cigognola.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_cigognola/110_ban_gar_con/"
+},
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_cigognola/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "albo",
+"url": "https://cigognola.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cigognola.pv.it/novita/avvisi/novita_21.html"
+}
+]
+},
+{
+"istat": "018050",
+"comune": "Cilavegna",
+"sito": "https://www.comune.cilavegna.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cilavegna.pv.it/Bandigare"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cilavegna.pv.it/Dettaglionews?IDNews=421525"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cilavegna.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018051",
+"comune": "Codevilla",
+"sito": "https://www.comune.codevilla.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.codevilla.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.codevilla.pv.it/it-it/novita/avvisi/2026/elettorale/albo-degli-scrutatori-di-seggio-elettorale-402967-1-ad2919779b69c4dcc92b03916a082813"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.codevilla.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018052",
+"comune": "Confienza",
+"sito": "https://www.comune.confienza.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.confienza.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.confienza.pv.it/amministrazione/atti-pubblicazioni/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.confienza.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018053",
+"comune": "Copiano",
+"sito": "https://www.comune.copiano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_copiano/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_copiano/110_ban_gar_con/010_inf_pro_for_tab/"
+},
+{
+"kind": "albo",
+"url": "https://comune.copiano.pv.it/novita/scrutatori-dei-seggi-elettorali-aggiornamento-dellalbo-unico-comunale-2/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.copiano.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018054",
+"comune": "Corana",
+"sito": "https://www.comune.corana.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.corana.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=crn1124"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.corana.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018057",
+"comune": "Corvino San Quirico",
+"sito": "https://www.comune.corvino-san-quirico.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c018057/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c018057/mc/mc_p_ricerca.php?noHeaderFooter=1&multiente=c018057"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.corvino-san-quirico.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018058",
+"comune": "Costa de' Nobili",
+"sito": "https://www.comune.costadenobili.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.costadenobili.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=cstdnbl1482"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.costadenobili.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018059",
+"comune": "Cozzo",
+"sito": "https://www.comune.cozzo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cozzo.halleyweb.it/c018059/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cozzo.pv.it/novita/avvisi/novita_392.html"
+}
+]
+},
+{
+"istat": "018060",
+"comune": "Cura Carpignano",
+"sito": "https://www.comune.curacarpignano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.curacarpignano.pv.it/EG0/EGSCHTST26.HBL?en=eg167&MESSA=PUBBLICA&SRL=144"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.curacarpignano.pv.it/novita/notizie/novita_389.html"
+}
+]
+},
+{
+"istat": "018061",
+"comune": "Dorno",
+"sito": "https://www.comune.dorno.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?ce=drn1126"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.dorno.pv.it/Bandigare?Tipo=1"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=drn1126"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dorno.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018062",
+"comune": "Ferrera Erbognone",
+"sito": "https://www.comune.ferreraerbognone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.ferreraerbognone.pv.it/EG0/EGSCHTST26.HBL?en=e1357&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ferreraerbognone.pv.it/novita/avvisi/novita_29.html"
+}
+]
+},
+{
+"istat": "018063",
+"comune": "Filighera",
+"sito": "https://www.comune.filighera.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018063/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.filighera.pv.it/novita/notizie/novita_129.html"
+}
+]
+},
+{
+"istat": "018064",
+"comune": "Fortunago",
+"sito": "https://www.comune.fortunago.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.fortunago.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=frtng1409"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.fortunago.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018065",
+"comune": "Frascarolo",
+"sito": "https://www.comune.frascarolo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.frascarolo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.frascarolo.pv.it/amministrazione/storico-albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.frascarolo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018066",
+"comune": "Galliavola",
+"sito": "https://www.comune.galliavola.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.galliavola.pv.it/EG0/EGSCHTST26.HBL?en=e1327&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.galliavola.pv.it/novita/avvisi/novita_1.html"
+}
+]
+},
+{
+"istat": "018067",
+"comune": "Gambarana",
+"sito": "https://www.comune.gambarana.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.gambarana.pv.it/m-amministrazione/m-pubblicazioni/bandi-di-gara/bandi-di-gara-e-contratti-fino-al-31-12-2023"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=gmbrn1481"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gambarana.pv.it/m-amministrazione/m-pubblicazioni/avvisi-alla-popolazione"
+}
+]
+},
+{
+"istat": "018068",
+"comune": "Gambolò",
+"sito": "https://www.comune.gambolo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://gambolo.halleyweb.it/c018068/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.gambolo.pv.it/it/news/aggiornamento-dell-albo-degli-scrutatori"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gambolo.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018069",
+"comune": "Garlasco",
+"sito": "https://www.comune.garlasco.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.garlasco.pv.it/it/page/appalti-pubblici?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.garlasco.pv.it/servizi/saturnweb/Home.aspx?CE=grlsc1497"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.garlasco.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018071",
+"comune": "Gerenzago",
+"sito": "https://www.comunegerenzago.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comunegerenzago.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=grnzg832"
+},
+{
+"kind": "notizie",
+"url": "https://www.comunegerenzago.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018072",
+"comune": "Giussago",
+"sito": "https://www.comune.giussago.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.giussago.pv.it/c018072/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.giussago.pv.it/c018072/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.giussago.pv.it/c018072/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "018073",
+"comune": "Godiasco Salice Terme",
+"sito": "https://www.comune.godiascosaliceterme.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.godiascosaliceterme.pv.it/Bandigare"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=gdscslctrm1136"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.godiascosaliceterme.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018074",
+"comune": "Golferenzo",
+"sito": "https://www.comune.golferenzo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.golferenzo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=glfrnz1126"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.golferenzo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018075",
+"comune": "Gravellona Lomellina",
+"sito": "https://www.comune.gravellonalomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.gravellonalomellina.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.gravellonalomellina.pv.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gravellonalomellina.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018076",
+"comune": "Gropello Cairoli",
+"sito": "https://www.comune.gropellocairoli.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.gropellocairoli.pv.it/trasparenza/bandi-di-gara-e-contratti-procedure-dal-01-01-2024/"
+},
+{
+"kind": "albo",
+"url": "https://halleyweb.com/c018076/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://comune.gropellocairoli.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018077",
+"comune": "Inverno e Monteleone",
+"sito": "https://www.comune.invernoemonteleone.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=nvrnmntln1654"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.invernoemonteleone.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018078",
+"comune": "Landriano",
+"sito": "https://www.comune.landriano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_landriano/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_landriano/110_ban_gar_con/"
+},
+{
+"kind": "albo",
+"url": "https://landriano.halleyweb.it/c018078/mc/mc_p_ricerca.php?x="
+},
+{
+"kind": "notizie",
+"url": "https://comune.landriano.pv.it/novita"
+}
+]
+},
+{
+"istat": "018079",
+"comune": "Langosco",
+"sito": "https://www.comune.langosco.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.langosco.pv.it/EG0/EGSCHTST26.HBL?en=eg697&MESSA=PUBBLICA&SRL=117"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.langosco.pv.it/novita/notizie/novita_162.html"
+}
+]
+},
+{
+"istat": "018080",
+"comune": "Lardirago",
+"sito": "https://www.comune.lardirago.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lardirago.pv.it/c018080/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.lardirago.pv.it/c018080/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "018081",
+"comune": "Linarolo",
+"sito": "https://www.comune.linarolo.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.linarolo.pv.it/it/page/116006"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.linarolo.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018083",
+"comune": "Lomello",
+"sito": "https://www.comune.lomello.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "http://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=lmll110"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lomello.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018084",
+"comune": "Lungavilla",
+"sito": "https://www.comune.lungavilla.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.lungavilla.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.lungavilla.pv.it/it-it/amministrazione/bandi-di-gara/2026/avviso-pubblico-per-l-aggiornamento-dell-albo-dei-soggetti-erogatori-del-servizio-di-assistenza-55600-1-ba4ecf495ea8c0c99b5e1b36f17c75b5"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lungavilla.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018085",
+"comune": "Magherno",
+"sito": "https://www.comune.magherno.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c018085/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c018085/zf/index.php/bandi-gara/atti-documenti/tipologie"
+},
+{
+"kind": "albo",
+"url": "http://halleyweb.com/c018085/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.magherno.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018086",
+"comune": "Marcignago",
+"sito": "https://www.comune.marcignago.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.marcignago.pv.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.marcignago.pv.it/novita/notizie/novita_15.html"
+}
+]
+},
+{
+"istat": "018087",
+"comune": "Marzano",
+"sito": "https://www.comune.marzano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018087/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.marzano.pv.it/EG0/EGSCHTST113.HBL?en=eg878&MESSA=PUBBLICA&SRL=1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.marzano.pv.it/novita/avvisi/novita_349.html"
+}
+]
+},
+{
+"istat": "018088",
+"comune": "Mede",
+"sito": "https://www.comune.mede.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mede.pv.it/EG0/EGSCHTST26.HBL?en=eg657&MESSA=PUBBLICA&SRL=185"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c018088/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mede.pv.it/novita/notizie/novita_141.html"
+}
+]
+},
+{
+"istat": "018089",
+"comune": "Menconico",
+"sito": "https://www.comune.menconico.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.menconico.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=mncnc1490"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.menconico.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018090",
+"comune": "Mezzana Bigli",
+"sito": "https://www.comune.mezzanabigli.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mezzanabigli.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=mzznbgl733"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mezzanabigli.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018091",
+"comune": "Mezzana Rabattone",
+"sito": "https://www.comune.mezzanarabattone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mezzanarabattone.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.mezzanarabattone.pv.it/it-it/novita/avvisi/2026/elettorale/albo-presidenti-di-seggio-anno-2027-401793-1-52155aac1e9c7b26d4878a264fbe19e0"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mezzanarabattone.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018092",
+"comune": "Mezzanino",
+"sito": "https://www.comune.mezzanino.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://mezzanino.halleyweb.it/c018092/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mezzanino.pv.it/novita/comunicati_stampa/novita_104.html"
+}
+]
+},
+{
+"istat": "018093",
+"comune": "Miradolo Terme",
+"sito": "https://www.comune.miradoloterme.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c018093/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.miradoloterme.pv.it/it/news/avviso-iscrizione-albo-scrutatori-e-presidenti-di-seggio-2026-2051524"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.miradoloterme.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018094",
+"comune": "Montalto Pavese",
+"sito": "https://www.comune.montaltopavese.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.montaltopavese.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=mntltpvs1171"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montaltopavese.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018095",
+"comune": "Montebello della Battaglia",
+"sito": "https://www.comune.montebellodellabattaglia.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=mntblldllbttgl974"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montebellodellabattaglia.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018096",
+"comune": "Montecalvo Versiggia",
+"sito": "https://www.comune.montecalvo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.montecalvo.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=mntclvvrsgg1127"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montecalvo.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018097",
+"comune": "Montescano",
+"sito": "https://WWW.COMUNE.MONTESCANO.PV.IT",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://WWW.COMUNE.MONTESCANO.PV.IT/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=mntscn704"
+},
+{
+"kind": "notizie",
+"url": "https://WWW.COMUNE.MONTESCANO.PV.IT/it-it/novita"
+}
+]
+},
+{
+"istat": "018098",
+"comune": "Montesegale",
+"sito": "https://www.comune.montesegale.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.montesegale.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.montesegale.pv.it/it-it/novita/avvisi/2026/aggiornamento-dell-albo-unico-comunale-degli-scrutatori-dei-seggi-elettorali-403150-1-f14a6685a14d334bb146d1e6c401f7b8"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montesegale.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018099",
+"comune": "Monticelli Pavese",
+"sito": "https://www.comune.monticellipavese.pv.it/",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c018099/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monticellipavese.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018100",
+"comune": "Montù Beccaria",
+"sito": "https://www.comune.montubeccaria.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.montubeccaria.pv.it/EG0/EGSCHTST26.HBL?en=eg832&MESSA=PUBBLICA&SRL=109"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montubeccaria.pv.it/novita/avvisi/novita_15.html"
+}
+]
+},
+{
+"istat": "018101",
+"comune": "Mornico Losana",
+"sito": "https://www.comunemornicolosana.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c018101/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "albo",
+"url": "http://halleyweb.com/c018101/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comunemornicolosana.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018102",
+"comune": "Mortara",
+"sito": "https://www.comune.mortara.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mortara.pv.it/EG0/EGSCHTST26.HBL?en=e1036&MESSA=PUBBLICA&SRL=91",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mortara.pv.it/novita/notizie/novita_182.html"
+}
+]
+},
+{
+"istat": "018103",
+"comune": "Nicorvo",
+"sito": "https://www.comune.nicorvo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://nicorvo.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://nicorvo.halleyweb.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.nicorvo.pv.it/novita/avvisi/novita_59.html"
+}
+]
+},
+{
+"istat": "018104",
+"comune": "Olevano di Lomellina",
+"sito": "https://www.olevanolomellina.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "http://www.olevanolomellina.it/notizie/index.htm"
+}
+]
+},
+{
+"istat": "018105",
+"comune": "Oliva Gessi",
+"sito": "https://www.comune.olivagessi.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c018105/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c018105/mc/mc_p_ricerca.php?noHeaderFooter=1&multiente=c018105"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.olivagessi.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018106",
+"comune": "Ottobiano",
+"sito": "https://www.comune.ottobiano.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.ottobiano.pv.it/EG0/EGSCHTST26.HBL?en=e1194&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "albo",
+"url": "https://albo.apkappa.it/ottobiano/albo/index.php?"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ottobiano.pv.it/novita/notizie/novita_19.html"
+}
+]
+},
+{
+"istat": "018107",
+"comune": "Palestro",
+"sito": "https://www.comune.palestro.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.palestro.pv.it/EG0/EGSCHTST47.HBL?en=eg803&MESSA=PUBBLICA&SRL=10"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.palestro.pv.it/novita/avvisi/novita_2.html"
+}
+]
+},
+{
+"istat": "018108",
+"comune": "Pancarana",
+"sito": "https://www.comune.pancarana.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://albo.apkappa.it/pancarana/albo/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pancarana.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018109",
+"comune": "Parona",
+"sito": "https://www.comune.parona.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.parona.pv.it/it-it/amministrazione/atti-pubblicazioni/bandi-di-gara"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.parona.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c018109/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.parona.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018110",
+"comune": "Pavia",
+"sito": "https://www.comune.pavia.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://pavia.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://pavia.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pavia.it/novita"
+}
+]
+},
+{
+"istat": "018111",
+"comune": "Pietra de' Giorgi",
+"sito": "https://www.comune.pietradegiorgi.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=ptrdgrg1703"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pietradegiorgi.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018112",
+"comune": "Pieve Albignola",
+"sito": "https://www.comune.pievealbignola.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pievealbignola.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=pvlbgnl1132"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pievealbignola.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018113",
+"comune": "Pieve del Cairo",
+"sito": "https://www.comune.pievedelcairo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pievedelcairo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.pievedelcairo.pv.it/it-it/novita/avvisi/2026/elettorale/manifesto-per-l-iscrizione-all-albo-degli-scrutatori-dei-seggi-elettorali-403052-1-b74bed9847abbbb5f0a6ed361c4e2142"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pievedelcairo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018114",
+"comune": "Pieve Porto Morone",
+"sito": "https://www.comune.pieveportomorone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pieveportomorone.pv.it/zf/index.php/uffici/index/detail/categoria/80/id/11"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.pieveportomorone.pv.it/c018114/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pieveportomorone.pv.it/c018114/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "018115",
+"comune": "Pinarolo Po",
+"sito": "https://www.comune.pinarolopo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pinarolopo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.pinarolopo.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-albo-presidenti-di-seggio-elettorale-403837-1-3ff0c6cb0c224f7adb4fdfe293380b1e"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pinarolopo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018116",
+"comune": "Pizzale",
+"sito": "https://www.comune.pizzale.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pizzale.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=pzzl1540"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pizzale.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018117",
+"comune": "Ponte Nizza",
+"sito": "https://www.comune.pontenizza.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pontenizza.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=pntnzz1167"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pontenizza.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018118",
+"comune": "Portalbera",
+"sito": "https://www.comune.portalbera.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.portalbera.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsportalbera/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.portalbera.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018119",
+"comune": "Rea",
+"sito": "https://www.comune.rea.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rea.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=r1062"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rea.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018120",
+"comune": "Redavalle",
+"sito": "https://www.comune.redavalle.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.redavalle.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.redavalle.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-elettorale-403697-1-0247618086df21a6fc4128f817ef5ec4"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.redavalle.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018121",
+"comune": "Retorbido",
+"sito": "https://www.comune.retorbido.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsretorbido/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=220"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsretorbido/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.retorbido.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018122",
+"comune": "Rivanazzano Terme",
+"sito": "https://www.comune.rivanazzanoterme.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rivanazzanoterme.pv.it/it/page/appalti-pubblici?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsrivanazzano/portale/albopretorio/albopretorioconsultazione.aspx"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rivanazzanoterme.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018123",
+"comune": "Robbio",
+"sito": "https://www.comune.robbio.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.robbio.pv.it/trasparenza/bandi-di-gara-e-contratti-al-31-12-2023/"
+},
+{
+"kind": "albo",
+"url": "https://halleyweb.com/c018123/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.robbio.pv.it/avvisi/"
+}
+]
+},
+{
+"istat": "018124",
+"comune": "Robecco Pavese",
+"sito": "https://www.comune.robeccopavese.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.robeccopavese.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=rbccpvs1208"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.robeccopavese.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018125",
+"comune": "Rocca de' Giorgi",
+"sito": "https://www.comune.roccadegiorgi.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.roccadegiorgi.pv.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.roccadegiorgi.pv.it/c018125/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "018126",
+"comune": "Rocca Susella",
+"sito": "https://www.comune.roccasusella.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.roccasusella.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=rccssll1178"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roccasusella.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018127",
+"comune": "Rognano",
+"sito": "https://www.comune.rognano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.rognano.pv.it/c018127/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.rognano.pv.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rognano.pv.it/c018127/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "018128",
+"comune": "Romagnese",
+"sito": "https://www.comune.romagnese.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.romagnese.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=rmgns202"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.romagnese.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018129",
+"comune": "Roncaro",
+"sito": "https://www.comune.roncaro.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.roncaro.pv.it/zf/index.php/organi-politico-amministrativo/index/detail/categoria/77/page/2/idOrgano/G-XpVPQT-A"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.roncaro.pv.it/c018129/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roncaro.pv.it/c018129/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "018130",
+"comune": "Rosasco",
+"sito": "https://www.comune-rosasco.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune-rosasco.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune-rosasco.it/it-it/amministrazione/Archivio-Albo-Pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune-rosasco.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018131",
+"comune": "Rovescala",
+"sito": "https://www.comune.rovescala.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsrovescala/listautenti.aspx?U=1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rovescala.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018133",
+"comune": "San Cipriano Po",
+"sito": "https://www.comune.sanciprianopo.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.sanciprianopo.pv.it/it-it/novita/avvisi/2026/avviso-per-iscrizione-albo-presidenti-di-seggio-e-scrutatori-403717-1-12e8acd76a43af140563d1f6fadebcc9"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanciprianopo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018134",
+"comune": "San Damiano al Colle",
+"sito": "https://www.comune.sandamianoalcolle.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sandamianoalcolle.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=sndmnlcll1139"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sandamianoalcolle.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018135",
+"comune": "San Genesio ed Uniti",
+"sito": "https://www.comune.sangenesio.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sangenesio.pv.it/c018135/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.sangenesio.pv.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sangenesio.pv.it/c018135/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.consorziosocialepavese.it/Dettaglionews?IDNews=271620"
+}
+]
+},
+{
+"istat": "018136",
+"comune": "San Giorgio di Lomellina",
+"sito": "https://www.comune.sangiorgiodilomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssglomellina/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://albo.apkappa.it/sangiorgiolomellina/albo/index.php?"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sangiorgiodilomellina.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018137",
+"comune": "San Martino Siccomario",
+"sito": "https://www.comune.sanmartino.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sanmartino.pv.it/EG0/EGSCHTST26.HBL?en=eg694&MESSA=PUBBLICA&SRL=122"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanmartino.pv.it/novita/avvisi/novita_503.html"
+}
+]
+},
+{
+"istat": "018138",
+"comune": "Sannazzaro de' Burgondi",
+"sito": "https://www.comune.sannazzarodeburgondi.pv.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.sannazzarodeburgondi.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018139",
+"comune": "Santa Cristina e Bissone",
+"sito": "https://www.comune.santacristinaebissone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.santacristinaebissone.pv.it/EG0/EGSCHTST26.HBL?en=e1621&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santacristinaebissone.pv.it/novita/notizie/novita_81.html"
+}
+]
+},
+{
+"istat": "018140",
+"comune": "Santa Giuletta",
+"sito": "https://www.comune.santagiuletta.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.santagiuletta.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.santagiuletta.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-albo-presidenti-e-scrutatori-di-seggio-elettorale-403268-1-62ce8cfc1adedfbcb0ad510126126235"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santagiuletta.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018141",
+"comune": "Sant'Alessio con Vialone",
+"sito": "https://www.comune.santalessioconvialone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.santalessioconvialone.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=sntlsscnvln1133"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santalessioconvialone.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018142",
+"comune": "Santa Margherita di Staffora",
+"sito": "https://www.comune.santamargheritadistaffora.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?CE=smrghrtstffr1436"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=smrghrtstffr1436"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santamargheritadistaffora.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018143",
+"comune": "Santa Maria della Versa",
+"sito": "https://www.comune.santa-maria-della-versa.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.santa-maria-della-versa.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://santamariadellaversa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santa-maria-della-versa.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018144",
+"comune": "Sant'Angelo Lomellina",
+"sito": "https://www.comune.santangelolomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://santangelolomellina.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.santangelolomellina.pv.it/EG0/EGSCHTST26.HBL?en=eg699&MESSA=PUBBLICA&SRL=110"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.santangelolomellina.pv.it/novita/avvisi/novita_4.html"
+}
+]
+},
+{
+"istat": "018145",
+"comune": "San Zenone al Po",
+"sito": "https://www.comune.sanzenonealpo.pv.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sanzenonealpo.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=snznnlp840"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanzenonealpo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018146",
+"comune": "Sartirana Lomellina",
+"sito": "https://www.comune.sartiranalomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sartiranalomellina.pv.it/EG0/EGSCHTST26.HBL?en=eg625&MESSA=PUBBLICA&SRL=123"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sartiranalomellina.pv.it/novita/notizie/novita_259.html"
+}
+]
+},
+{
+"istat": "018147",
+"comune": "Scaldasole",
+"sito": "https://www.comune.scaldasole.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?ce=scldsl1091"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=scldsl1091"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.scaldasole.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018148",
+"comune": "Semiana",
+"sito": "https://www.comunesemiana.pv.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comunesemiana.pv.it",
+"browser": true
+}
+]
+},
+{
+"istat": "018149",
+"comune": "Silvano Pietra",
+"sito": "https://www.comune.silvanopietra.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.silvanopietra.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.silvanopietra.pv.it/it-it/novita/avvisi/2026/presidenti-di-seggio-entro-il-31-ottobre-le-domande-per-l-iscrizione-all-albo-403340-1-0300fbde0a0f8c605c0786c6c778b0ba"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.silvanopietra.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018150",
+"comune": "Siziano",
+"sito": "https://www.comune.siziano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssiziano/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssiziano/portale/trasparenza/trasparenzaamministrativa.aspx?CP=81&IDNODE="
+},
+{
+"kind": "albo",
+"url": "https://comune.siziano.pv.it/novita/albo-dei-presidenti-di-seggio-elettorale-avviso-scadenza-iscrizioni-il-31-10-2026/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.siziano.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018151",
+"comune": "Sommo",
+"sito": "https://www.comune.sommo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sommo.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sommo.pv.it/novita/avvisi/novita_596.html"
+}
+]
+},
+{
+"istat": "018152",
+"comune": "Spessa",
+"sito": "https://www.comune.spessa.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.spessa.pv.it/EG0/EGSCHTST26.HBL?en=egt14&MESSA=PUBBLICA&SRL=91",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.spessa.pv.it/novita/notizie/novita_226.html"
+}
+]
+},
+{
+"istat": "018153",
+"comune": "Stradella",
+"sito": "https://www.comune.stradella.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c018153/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.stradella.pv.it/button/albo-pretorio"
+}
+]
+},
+{
+"istat": "018154",
+"comune": "Suardi",
+"sito": "https://www.comune.suardi.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssuardi/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=10"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.suardi.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-albo-scrutatori-403687-1-4d084d5f511be0b1311f781e995c2a28"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.suardi.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018155",
+"comune": "Torrazza Coste",
+"sito": "https://www.comune.torrazzacoste.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.torrazzacoste.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=trrzzcst1213"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torrazzacoste.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018156",
+"comune": "Torre Beretti e Castellaro",
+"sito": "https://comune.torreberettiecastellaro.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.torreberettiecastellaro.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstorreberetti/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.torreberettiecastellaro.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018157",
+"comune": "Torre d'Arese",
+"sito": "https://www.comune.torredarese.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://torredarese.halleyegov.it/EG0/EGSCHTST26.HBL?en=e1785&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://halleyweb.com/c018157/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torredarese.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018158",
+"comune": "Torre de' Negri",
+"sito": "https://www.comune.torredenegri.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.torredenegri.pv.it/amministrazione/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torredenegri.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018159",
+"comune": "Torre d'Isola",
+"sito": "https://www.comune.torredisola.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it:443/cms/trasparenza/Home/Menu/tabid/20842/Default.aspx?IDDettaglio=222055&Portale=10190"
+},
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?CE=trrdsl1583"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=trrdsl1583"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torredisola.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018160",
+"comune": "Torrevecchia Pia",
+"sito": "https://www.comune.torrevecchiapia.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.torrevecchiapia.pv.it/it/page/112436"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torrevecchiapia.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018161",
+"comune": "Torricella Verzate",
+"sito": "https://www.comune.torricellaverzate.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.torricellaverzate.pv.it/EG0/EGSCHTST26.HBL?en=eg297&MESSA=PUBBLICA&SRL=99",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.torricellaverzate.pv.it/novita/notizie/novita_33.html"
+}
+]
+},
+{
+"istat": "018162",
+"comune": "Travacò Siccomario",
+"sito": "https://www.comune.travacosiccomario.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.travacosiccomario.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://travacosiccomario.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.travacosiccomario.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018163",
+"comune": "Trivolzio",
+"sito": "https://www.comune.trivolzio.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.trivolzio.pv.it/EG0/EGSCHTST26.HBL?en=e1615&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.trivolzio.pv.it/novita/avvisi/novita_81.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trivolzio.pv.it/novita/avvisi/novita_81.html"
+}
+]
+},
+{
+"istat": "018164",
+"comune": "Tromello",
+"sito": "https://www.comune.tromello.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.tromello.pv.it/c018164/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.tromello.pv.it/c018164/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20003"
+}
+]
+},
+{
+"istat": "018165",
+"comune": "Trovo",
+"sito": "https://www.comune.trovo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.trovo.pv.it/EG0/EGSCHTST26.HBL?en=eg162&MESSA=PUBBLICA&SRL=109"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.trovo.pv.it/novita/notizie/novita_127.html"
+}
+]
+},
+{
+"istat": "018166",
+"comune": "Val di Nizza",
+"sito": "https://www.comune.valdinizza.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valdinizza.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=vldnzz1194"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valdinizza.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018167",
+"comune": "Valeggio",
+"sito": "https://www.comune.valeggio.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valeggio.pv.it/it/page/161818?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsvaleggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valeggio.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018168",
+"comune": "Valle Lomellina",
+"sito": "https://www.comune.vallelomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vallelomellina.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsvallelomellina/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vallelomellina.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018169",
+"comune": "Valle Salimbene",
+"sito": "https://www.comune.vallesalimbene.pv.it/it-it/home",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vallesalimbene.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.vallesalimbene.pv.it/it-it/novita/avvisi/2026/elettorale/aggiornamento-dell-albo-dei-presidenti-di-seggio-402401-1-46b6aa67748ab8f181e0b19d995e7155"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vallesalimbene.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018171",
+"comune": "Varzi",
+"sito": "https://www.comune.varzi.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.arera.it/stampa-bandi-gara"
+},
+{
+"kind": "albo",
+"url": "https://varzi.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.varzi.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018172",
+"comune": "Velezzo Lomellina",
+"sito": "https://www.comune.velezzolomellina.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.velezzolomellina.pv.it/c018172/zf/index.php/trasparenza/index/index/categoria/81"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.velezzolomellina.pv.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "018173",
+"comune": "Vellezzo Bellini",
+"sito": "https://www.comune.vellezzobellini.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vellezzobellini.pv.it/c018173/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.vellezzobellini.pv.it/c018173/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "018174",
+"comune": "Verretto",
+"sito": "https://www.comune.verretto.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.verretto.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.verretto.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018175",
+"comune": "Verrua Po",
+"sito": "https://www.comune.verruapo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?ce=vrrp1063"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=vrrp1063"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.verruapo.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018176",
+"comune": "Vidigulfo",
+"sito": "https://www.comune.vidigulfo.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://vidigulfo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vidigulfo.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018177",
+"comune": "Vigevano",
+"sito": "https://www.comune.vigevano.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://vigevano.e-pal.it/L190/?idSezione=126632&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://vigevano.e-pal.it/AlboOnline/ricercaAlbo"
+},
+{
+"kind": "notizie",
+"url": "https://comune.vigevano.pv.it/novita/"
+}
+]
+},
+{
+"istat": "018178",
+"comune": "Villa Biscossi",
+"sito": "https://www.comune.villabiscossi.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_villa_biscossi/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villabiscossi.pv.it/news.php"
+}
+]
+},
+{
+"istat": "018179",
+"comune": "Villanova d'Ardenghi",
+"sito": "https://www.comune.villanovadardenghi.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsardenghi/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villanovadardenghi.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018180",
+"comune": "Villanterio",
+"sito": "https://www.comune.villanterio.pv.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.villanterio.pv.it/novita/avvisi/novita_29.html"
+}
+]
+},
+{
+"istat": "018181",
+"comune": "Vistarino",
+"sito": "https://www.comune.vistarino.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.vistarino.pv.it/EG0/EGSCHTST26.HBL?en=e1290&MESSA=PUBBLICA&SRL=111"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vistarino.pv.it/novita/avvisi/novita_64.html"
+}
+]
+},
+{
+"istat": "018182",
+"comune": "Voghera",
+"sito": "https://www.comune.voghera.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.voghera.pv.it/it/news/avviso-aggiornamento-albo-avvocati-2026-2027"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.voghera.pv.it/it/menu/news"
+}
+]
+},
+{
+"istat": "018183",
+"comune": "Volpara",
+"sito": "https://www.comune.volpara.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.volpara.pv.it/it-it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=vlpr1128"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.volpara.pv.it/it-it/linea-diretta#m-notizie-ed-eventi"
+}
+]
+},
+{
+"istat": "018184",
+"comune": "Zavattarello",
+"sito": "https://www.comune.zavattarello.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zavattarello.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://zavattarello.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zavattarello.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018185",
+"comune": "Zeccone",
+"sito": "https://www.comune.zeccone.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zeccone.pv.it/c018185/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/archivio?sat=1431703551&nodo=nodo2"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.zeccone.pv.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zeccone.pv.it/c018185/po/po_p_eventi.php?parte_pubblica=1"
+}
+]
+},
+{
+"istat": "018186",
+"comune": "Zeme",
+"sito": "https://www.comune.zeme.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zeme.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmszeme/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zeme.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018187",
+"comune": "Zenevredo",
+"sito": "https://www.comune.zenevredo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zenevredo.pv.it/EG0/EGSCHTST26.HBL?en=eg787&MESSA=PUBBLICA&SRL=96"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zenevredo.pv.it/novita/notizie/novita_16.html"
+}
+]
+},
+{
+"istat": "018188",
+"comune": "Zerbo",
+"sito": "https://www.comune.zerbo.pv.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.zerbo.pv.it/novita/avvisi/novita_80.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zerbo.pv.it/novita/avvisi/novita_69.html"
+}
+]
+},
+{
+"istat": "018189",
+"comune": "Zerbolò",
+"sito": "https://www.comune.zerbolo.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.servizipubblicaamministrazione.it/servizi/saturnwebdl33art37/Home.aspx?ce=zrbl605"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.zerbolo.pv.it/it-it/novita/avvisi/2026/elettorale/richiesta-iscrizione-albo-presidenti-di-seggio-elettorale-403288-1-9d97ce857058663f08fae9bc6e5b2fe4"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zerbolo.pv.it/it-it/novita"
+}
+]
+},
+{
+"istat": "018190",
+"comune": "Zinasco",
+"sito": "https://www.comune.zinasco.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.zinasco.pv.it/Bandigare"
+},
+{
+"kind": "albo",
+"url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=znsc757"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.zinasco.pv.it/Notizie"
+}
+]
+},
+{
+"istat": "018191",
+"comune": "Cornale e Bastida",
+"sito": "https://www.comune.cornalebastida.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c018191/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cornalebastida.pv.it/novita/avvisi/novita_1.html"
+}
+]
+},
+{
+"istat": "018192",
+"comune": "Corteolona e Genzone",
+"sito": "https://www.comune.corteolonaegenzone.pv.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.corteolonaegenzone.pv.it/novita/avvisi/novita_206.html"
+}
+]
+},
+{
+"istat": "018193",
+"comune": "Colli Verdi",
+"sito": "https://www.comune.colliverdi.pv.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.colliverdi.pv.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.colliverdi.pv.it/it-it/novita/avvisi/2026/elettorale/albo-presidenti-di-seggio-elettorale-402218-1-d6299cedefa6595da31d56d9ee74ff66"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.colliverdi.pv.it/it-it/novita"
+}
+]
+}
+]
+}

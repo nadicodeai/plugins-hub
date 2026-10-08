@@ -1,0 +1,1575 @@
+{
+"provincia": "Lecco",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "097001",
+"comune": "Abbadia Lariana",
+"sito": "https://www.comune.abbadia-lariana.lc.it/",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.abbadia-lariana.lc.it/it/page/137158"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.abbadia-lariana.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097002",
+"comune": "Airuno",
+"sito": "https://www.comune.airuno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.airuno.lc.it/EG0/EGSCHTST26.HBL?en=eg535&MESSA=PUBBLICA&SRL=91"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.airuno.lc.it/novita/avvisi/novita_118.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.airuno.lc.it/novita/avvisi/novita_119.html"
+}
+]
+},
+{
+"istat": "097003",
+"comune": "Annone di Brianza",
+"sito": "https://www.comune.annone-di-brianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://annonedibrianza.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://annonedibrianza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.annone-di-brianza.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097004",
+"comune": "Ballabio",
+"sito": "https://www.comune.ballabio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097004/zf/index.php/trasparenza/index/index/categoria/233"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097004/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ballabio.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097005",
+"comune": "Barzago",
+"sito": "https://www.comune.barzago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.barzago.lc.it/EG0/EGSCHTST26.HBL?en=eg114&MESSA=PUBBLICA&SRL=95"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097005/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barzago.lc.it/novita/avvisi/novita_339.html"
+}
+]
+},
+{
+"istat": "097006",
+"comune": "Barzanò",
+"sito": "https://www.comune.barzano.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://barzano.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.barzano.lc.it/it/news/albo-delle-persone-idonee-all-ufficio-di-presidente-e-scrutatore-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barzano.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097007",
+"comune": "Barzio",
+"sito": "https://www.comune.barzio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.barzio.lc.it/EG0/EGSCHTST26.HBL?en=eg216&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.barzio.lc.it/novita/avvisi/novita_128.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.barzio.lc.it/novita/notizie/novita_123.html"
+}
+]
+},
+{
+"istat": "097008",
+"comune": "Bellano",
+"sito": "https://www.comune.bellano.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bellano.lc.it/EG0/EGSCHTST26.HBL?en=eg111&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097008_n/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bellano.lc.it/novita/notizie/novita_85.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bellano.lc.it/novita/notizie/novita_195.html"
+}
+]
+},
+{
+"istat": "097009",
+"comune": "Bosisio Parini",
+"sito": "https://www.comune.bosisioparini.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.bosisioparini.lc.it/EG0/EGSCHTST26.HBL?en=eg939&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.bosisioparini.lc.it/novita/avvisi/novita_333.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bosisioparini.lc.it/novita/notizie/novita_334.html"
+}
+]
+},
+{
+"istat": "097010",
+"comune": "Brivio",
+"sito": "https://www.comune.brivio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.brivio.lc.it/EG0/EGSCHTST26.HBL?en=eg112&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.brivio.lc.it/novita/avvisi/novita_236.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.brivio.lc.it/novita/avvisi/novita_236.html"
+}
+]
+},
+{
+"istat": "097011",
+"comune": "Bulciago",
+"sito": "https://www.comune.bulciago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097011/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.bulciago.lc.it/EG0/EGSCHTST26.HBL?en=eg991&MESSA=PUBBLICA&SRL=91"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bulciago.lc.it/novita/notizie/novita_166.html"
+}
+]
+},
+{
+"istat": "097012",
+"comune": "Calco",
+"sito": "https://www.comune.calco.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200238&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200238"
+},
+{
+"kind": "notizie",
+"url": "https://comune.calco.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097013",
+"comune": "Calolziocorte",
+"sito": "https://www.comune.calolziocorte.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.calolziocorte.lc.it/Amministrazione-Trasparente/Bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200297"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.calolziocorte.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097014",
+"comune": "Carenno",
+"sito": "https://www.comune.carenno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200269&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200269"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.carenno.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097015",
+"comune": "Casargo",
+"sito": "https://www.comune.casargo.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200809&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200809"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casargo.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097016",
+"comune": "Casatenovo",
+"sito": "https://comune.casatenovo.lc.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscasatenovo/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://comune.casatenovo.lc.it/documenti/2331919/albo-pretorio-pubblicazioni-matrimonio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.casatenovo.lc.it/novita"
+}
+]
+},
+{
+"istat": "097017",
+"comune": "Cassago Brianza",
+"sito": "https://www.comune.cassago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cassago.lc.it/EG0/EGSCHTST26.HBL?en=eg242&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassago.lc.it/novita/notizie/novita_197.html"
+}
+]
+},
+{
+"istat": "097018",
+"comune": "Cassina Valsassina",
+"sito": "https://www.comune.cassinavalsassina.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097018/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.cassinavalsassina.lc.it/EG0/EGSCHTST26.HBL?en=eg115&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cassinavalsassina.lc.it/novita/avvisi/novita_117.html"
+}
+]
+},
+{
+"istat": "097019",
+"comune": "Castello di Brianza",
+"sito": "https://www.comune.castellobrianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097019/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.castellobrianza.lc.it/EG0/EGSCHTST26.HBL?en=eg972&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castellobrianza.lc.it/novita/notizie/novita_107.html"
+}
+]
+},
+{
+"istat": "097020",
+"comune": "Cernusco Lombardone",
+"sito": "https://www.comune.cernuscolombardone.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cernuscolombardone.lc.it/c097020/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cernuscolombardone.lc.it/c097020/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "097021",
+"comune": "Cesana Brianza",
+"sito": "https://www.comune.cesana-brianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cesana-brianza.lc.it/EG0/EGSCHTST26.HBL?en=eg936&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cesana-brianza.lc.it/novita/avvisi/novita_114.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cesana-brianza.lc.it/novita/notizie/novita_85.html"
+}
+]
+},
+{
+"istat": "097022",
+"comune": "Civate",
+"sito": "https://www.comune.civate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097022/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.civate.lc.it/novita/notizie/novita_206.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.civate.lc.it/novita/notizie/novita_205.html"
+}
+]
+},
+{
+"istat": "097023",
+"comune": "Colico",
+"sito": "https://www.comune.colico.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c097023/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c097023/zf/index.php/trasparenza/index/index"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c097023/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.colico.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097024",
+"comune": "Colle Brianza",
+"sito": "https://www.comune.collebrianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.collebrianza.lc.it/c097024/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.collebrianza.lc.it/c097024/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.collebrianza.lc.it/c097024/po/elenco_news.php?x=&area=&tags=1"
+}
+]
+},
+{
+"istat": "097025",
+"comune": "Cortenova",
+"sito": "https://www.comune.cortenova.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097025/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097025/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cortenova.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097026",
+"comune": "Costa Masnaga",
+"sito": "https://www.comune.costamasnaga.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097026/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097026/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097026/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.costamasnaga.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097027",
+"comune": "Crandola Valsassina",
+"sito": "https://www.comune.crandola.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.crandola.lc.it/EG0/EGSCHTST26.HBL?en=eg979&MESSA=PUBBLICA&SRL=92"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c097027/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.crandola.lc.it/novita/notizie/novita_14.html"
+}
+]
+},
+{
+"istat": "097028",
+"comune": "Cremella",
+"sito": "https://www.comune.cremella.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cremella.lc.it/c097028/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.cremella.lc.it/c097028/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.cremella.lc.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "097029",
+"comune": "Cremeno",
+"sito": "https://www.comune.cremeno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cremeno.lc.it/EG0/EGSCHTST26.HBL?en=eg100&MESSA=PUBBLICA&SRL=99"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097029/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cremeno.lc.it/novita/avvisi/novita_355.html"
+}
+]
+},
+{
+"istat": "097030",
+"comune": "Dervio",
+"sito": "https://www.comune.dervio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dervio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.dervio.lc.it/it/news/albo-delle-persone-idonee-all-ufficio-di-presidente-di-seggio-elettorale-1889688-2041438"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dervio.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097031",
+"comune": "Dolzago",
+"sito": "https://www.comune.dolzago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.dolzago.lc.it/EG0/EGSCHTST26.HBL?en=eg985&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.dolzago.lc.it/novita/notizie/novita_22.html"
+}
+]
+},
+{
+"istat": "097032",
+"comune": "Dorio",
+"sito": "https://www.comune.dorio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.dorio.lc.it/c097032/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.dorio.lc.it/c097032/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "097033",
+"comune": "Ello",
+"sito": "https://www.comune.ello.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.ello.lc.it/EG0/EGSCHTST26.HBL?en=eg209&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.ello.lc.it/novita/notizie/novita_21.html"
+}
+]
+},
+{
+"istat": "097034",
+"comune": "Erve",
+"sito": "https://www.comune.erve.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c097034/zf/index.php/bandi-gara/bandi-gara/bandi/table-bandi-gara-page/2"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c097034/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://halleyweb.com/c097034/mc/mc_p_ricerca.php?mittente=&oggetto=+&numero=&tipo_atto=&sto=&servizio="
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.erve.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097035",
+"comune": "Esino Lario",
+"sito": "https://www.comune.esinolario.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200817&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200817"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.esinolario.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097036",
+"comune": "Galbiate",
+"sito": "https://www.comune.galbiate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsgalbiate/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsgalbiate/portale/albopretorio/albopretorioconsultazione.aspx?P=6500"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.galbiate.lc.it/it-it/novita"
+}
+]
+},
+{
+"istat": "097037",
+"comune": "Garbagnate Monastero",
+"sito": "https://www.comune.garbagnate-monastero.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097037/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.garbagnate-monastero.lc.it/novita/avvisi/novita_140.html"
+}
+]
+},
+{
+"istat": "097038",
+"comune": "Garlate",
+"sito": "https://www.comune.garlate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_garlate/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "albo",
+"url": "http://tecuting.halleylombardia.it/c097038/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.garlate.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097039",
+"comune": "Imbersago",
+"sito": "https://www.comune.imbersago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.imbersago.lc.it/c097039/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.imbersago.lc.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.imbersago.lc.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.imbersago.lc.it/c097039/zf/index.php/servizi-aggiuntivi/index/index/idservizio/10028"
+}
+]
+},
+{
+"istat": "097040",
+"comune": "Introbio",
+"sito": "https://www.comune.introbio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097040/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.introbio.lc.it/novita/news/avviso-di-aggiornamento-albo-scrutatori-e-presidenti-di-seggio-1"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.introbio.lc.it/novita"
+}
+]
+},
+{
+"istat": "097042",
+"comune": "Lecco",
+"sito": "https://www.comune.lecco.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.contenuti-comune-lecco.it/index.php/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://lecco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13470"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lecco.it/Novita"
+}
+]
+},
+{
+"istat": "097043",
+"comune": "Lierna",
+"sito": "https://www.comune.lierna.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200888&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1200888"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lierna.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097044",
+"comune": "Lomagna",
+"sito": "https://www.comune.lomagna.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://lomagna.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://lomagna.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lomagna.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097045",
+"comune": "Malgrate",
+"sito": "https://www.comune.malgrate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://malgrate.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://malgrate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.malgrate.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097046",
+"comune": "Mandello del Lario",
+"sito": "https://www.comune.mandello.lc.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mandello.lc.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31-12-2023/informazioni-sulle-singole-procedure-in-formato-tabellare"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=mandel"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mandello.lc.it/it-it/novita"
+}
+]
+},
+{
+"istat": "097047",
+"comune": "Margno",
+"sito": "https://www.comune.margno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097047/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097047/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097047/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.margno.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097048",
+"comune": "Merate",
+"sito": "https://www.comune.merate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.merate.lc.it/EG0/EGSCHTST26.HBL?en=eg402&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097048/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.merate.lc.it/novita/notizie/novita_638.html"
+}
+]
+},
+{
+"istat": "097049",
+"comune": "Missaglia",
+"sito": "https://www.comune.missaglia.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097049/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.missaglia.lc.it/novita/notizie/novita_275.html"
+}
+]
+},
+{
+"istat": "097050",
+"comune": "Moggio",
+"sito": "https://www.comune.moggio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.moggio.lc.it/EG0/EGSCHTST26.HBL?en=e1622&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "bandi",
+"url": "https://halleyweb.com/c097050/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.moggio.lc.it/novita/notizie/novita_34.html"
+}
+]
+},
+{
+"istat": "097051",
+"comune": "Molteno",
+"sito": "https://www.comune.molteno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.molteno.lc.it/EG0/EGSCHTST26.HBL?en=eg959&MESSA=PUBBLICA&SRL=95"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.molteno.lc.it/novita/avvisi/novita_606.html"
+}
+]
+},
+{
+"istat": "097052",
+"comune": "Monte Marenzo",
+"sito": "https://www.comune.monte-marenzo.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n201255&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n201255"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monte-marenzo.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097053",
+"comune": "Montevecchia",
+"sito": "https://www.comune.montevecchia.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097053/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097053/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097053/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.montevecchia.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097054",
+"comune": "Monticello Brianza",
+"sito": "https://www.comune.monticellobrianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://monticellobrianza.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://monticellobrianza.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monticellobrianza.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097055",
+"comune": "Morterone",
+"sito": "https://www.comune.morterone.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_morterone/110_ban_gar_con/"
+},
+{
+"kind": "albo",
+"url": "http://tecuting.halleylombardia.it/c097055/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "097056",
+"comune": "Nibionno",
+"sito": "https://www.comune.nibionno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.nibionno.lc.it/openweb/trasparenza/categoria.php?id=28&CSRF=8e78a45fe4d8b957baef460193ee5d75"
+},
+{
+"kind": "bandi",
+"url": "https://archivio-nibionno.openpa.opencontent.io/Amministrazione-Trasparente-fino-al-11.01.2023/Bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.nibionno.lc.it/openweb/albo/albo_pretorio.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.nibionno.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097057",
+"comune": "Oggiono",
+"sito": "https://www.comune.oggiono.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.oggiono.lc.it/EG0/EGSCHTST26.HBL?en=eg938&MESSA=PUBBLICA&SRL=90",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.oggiono.lc.it/novita/notizie/novita_236.html"
+}
+]
+},
+{
+"istat": "097058",
+"comune": "Olgiate Molgora",
+"sito": "https://www.comune.olgiatemolgora.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://olgiatemolgora.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://olgiatemolgora.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=52389"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.olgiatemolgora.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097059",
+"comune": "Olginate",
+"sito": "https://www.comune.olginate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.olginate.lc.it/EG0/EGSCHTST26.HBL?en=e1049&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.olginate.lc.it/novita/avvisi/novita_267.html"
+}
+]
+},
+{
+"istat": "097060",
+"comune": "Oliveto Lario",
+"sito": "https://www.comune.olivetolario.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.olivetolario.lc.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.olivetolario.lc.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.olivetolario.lc.it/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.olivetolario.lc.it/c097060/po/elenco_news.php?x=&area=&tags=1"
+}
+]
+},
+{
+"istat": "097061",
+"comune": "Osnago",
+"sito": "https://www.comune.osnago.lc.it/it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://osnago.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://osnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.osnago.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097062",
+"comune": "Paderno d'Adda",
+"sito": "https://www.comune.padernodadda.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200565&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.padernodadda.lc.it/novita/aggiornamento-albo-presidenti-di-seggio-4/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.padernodadda.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097063",
+"comune": "Pagnona",
+"sito": "https://www.comune.pagnona.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097063/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.pagnona.lc.it/EG0/EGSCHTST26.HBL?en=eg971&MESSA=PUBBLICA&SRL=91"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.pagnona.lc.it/novita/avvisi/novita_144.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pagnona.lc.it/novita/notizie/novita_125.html"
+}
+]
+},
+{
+"istat": "097064",
+"comune": "Parlasco",
+"sito": "https://www.comune.parlasco.lc.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://www.comune.parlasco.lc.it/hh/index.php",
+"browser": true
+}
+]
+},
+{
+"istat": "097065",
+"comune": "Pasturo",
+"sito": "https://www.comune.pasturo.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n97167&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n97167"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pasturo.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097067",
+"comune": "Perledo",
+"sito": "https://www.comune.perledo.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200823&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=n200823#page-content"
+},
+{
+"kind": "notizie",
+"url": "https://comune.perledo.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097068",
+"comune": "Pescate",
+"sito": "https://www.comune.pescate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pescate.lc.it/amministrazione-trasparente/sezioni/1944639-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://comune.pescate.lc.it/notizie/3656247/aggiornamento-albo-presidenti-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://comune.pescate.lc.it/novita"
+}
+]
+},
+{
+"istat": "097069",
+"comune": "Premana",
+"sito": "https://www.comune.premana.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.premana.lc.it/EG0/EGSCHTST26.HBL?en=eg923&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.premana.lc.it/novita/notizie/novita_244.html"
+}
+]
+},
+{
+"istat": "097070",
+"comune": "Primaluna",
+"sito": "https://www.comune.primaluna.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n97254&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n97254"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.primaluna.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097071",
+"comune": "Robbiate",
+"sito": "https://www.comune.robbiate.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.robbiate.lc.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n201684&NodoSel=44"
+},
+{
+"kind": "albo",
+"url": "https://comune.robbiate.lc.it/novita/aggiornamento-dellalbo-delle-persone-idonee-allufficio-di-presidente-di-seggio-elettorale/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.robbiate.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097072",
+"comune": "Rogeno",
+"sito": "https://www.comune.rogeno.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sotto.comune.rogeno.lc.it/openweb/trasparenza/categoria.php?id=28"
+},
+{
+"kind": "albo",
+"url": "https://sotto.comune.rogeno.lc.it/openweb/albo/albo_pretorio.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rogeno.lc.it/it/novita"
+}
+]
+},
+{
+"istat": "097074",
+"comune": "Santa Maria Hoè",
+"sito": "https://www.comune.santamariahoe.lc.it/",
+"pages": [
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200956"
+},
+{
+"kind": "notizie",
+"url": "https://comune.santamariahoe.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097075",
+"comune": "Sirone",
+"sito": "https://www.comune.sirone.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sirone.lc.it/EG0/EGSCHTST26.HBL?en=eg953&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sirone.lc.it/novita/avvisi/novita_209.html"
+}
+]
+},
+{
+"istat": "097076",
+"comune": "Sirtori",
+"sito": "https://www.comune.sirtori.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sirtori.lc.it/EG0/EGSCHTST26.HBL?en=eg956&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sirtori.lc.it/novita/notizie/novita_141.html"
+}
+]
+},
+{
+"istat": "097077",
+"comune": "Sueglio",
+"sito": "https://www.comune.sueglio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sueglio.lc.it/c097077/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sueglio.lc.it/mc/mc_p_ricerca.php"
+}
+]
+},
+{
+"istat": "097078",
+"comune": "Suello",
+"sito": "https://www.comune.suello.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_suello/110_ban_gar_con/"
+},
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_suello/110_ban_gar_con/2016/0001_Documenti_1456477058732/"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c097078/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.suello.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097079",
+"comune": "Taceno",
+"sito": "http://www.comune.taceno.lc.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200826&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n200826"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.taceno.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097082",
+"comune": "Valgreghentino",
+"sito": "https://www.comune.valgreghentino.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valgreghentino.lc.it/EG0/EGSCHTST26.HBL?en=eg961&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valgreghentino.lc.it/novita/avvisi/novita_91.html"
+}
+]
+},
+{
+"istat": "097083",
+"comune": "Valmadrera",
+"sito": "https://www.comune.valmadrera.lc.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.valmadrera.lc.it/it/news/albo-presidenti-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valmadrera.lc.it/it/menu/news"
+}
+]
+},
+{
+"istat": "097084",
+"comune": "Varenna",
+"sito": "https://www.comune.varenna.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097084/zf/index.php/trasparenza/index/index/categoria/255"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c097084/zf/index.php/trasparenza/index/index/categoria/269"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c097084/index.php?servizio=304"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.varenna.lc.it/Novita/Avvisi/Imposta-di-soggiorno"
+}
+]
+},
+{
+"istat": "097086",
+"comune": "Vercurago",
+"sito": "https://www.comune.vercurago.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://vercurago.halleyegov.it/EG0/EGSCHTST26.HBL?en=e1756&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://vercurago.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vercurago.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097090",
+"comune": "Viganò",
+"sito": "https://www.comune.vigano.lc.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.halleyweb.com%2Fc097090%2Fmc%2Fmc_p_ricerca.php&e=deff184d&h=e58e49a1&f=y&p=n"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.vigano.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097091",
+"comune": "Verderio",
+"sito": "https://www.comune.verderio.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/verderio/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/verderio/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/verderio/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.verderio.lc.it/novita/"
+}
+]
+},
+{
+"istat": "097092",
+"comune": "La Valletta Brianza",
+"sito": "https://www.comune.lavallettabrianza.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1200893&NodoSel=44",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://asp.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1200893"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.lavallettabrianza.lc.it/Novita"
+}
+]
+},
+{
+"istat": "097093",
+"comune": "Valvarrone",
+"sito": "https://www.comune.valvarrone.lc.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.valvarrone.lc.it/EG0/EGSCHTST26.HBL?en=eg963&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.valvarrone.lc.it/novita/notizie/novita_26.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.valvarrone.lc.it/novita/notizie/novita_1.html"
+}
+]
+}
+]
+}

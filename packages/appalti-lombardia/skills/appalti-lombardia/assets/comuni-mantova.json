@@ -1,0 +1,1178 @@
+{
+"provincia": "Mantova",
+"fonte": "Elenco comuni ISTAT e siti istituzionali IndicePA; pagine individuate seguendo i collegamenti di ciascun sito comunale",
+"comuni": [
+{
+"istat": "020001",
+"comune": "Acquanegra sul Chiese",
+"sito": "https://www.comune.acquanegra.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c020001/zf/index.php/trasparenza/index/index"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c020001/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c020001/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.acquanegra.mn.it/novita"
+}
+]
+},
+{
+"istat": "020002",
+"comune": "Asola",
+"sito": "https://www.comune.asola.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c020002/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c020002/zf/index.php/trasparenza/index/index"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c020002/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.asola.mn.it/novita/"
+}
+]
+},
+{
+"istat": "020003",
+"comune": "Bagnolo San Vito",
+"sito": "https://www.comunebagnolosanvito.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://bagnolosanvito.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bagnolosanvito.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020007",
+"comune": "Bozzolo",
+"sito": "https://www.comune.bozzolo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://bozzolo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://bozzolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.bozzolo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020008",
+"comune": "Canneto sull'Oglio",
+"sito": "https://www.comune.canneto.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.arca.regione.lombardia.it/wps/portal/ARCA/Home/e-procurement/piattaforma-sintel",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.canneto.mn.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://comune.canneto.mn.it/novita/"
+}
+]
+},
+{
+"istat": "020010",
+"comune": "Casalmoro",
+"sito": "https://www.comune.casalmoro.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c020010/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casalmoro.mn.it/it-it/novita"
+}
+]
+},
+{
+"istat": "020011",
+"comune": "Casaloldo",
+"sito": "https://www.comune.casaloldo.mn.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.casaloldo.mn.it/it/page/appalti-pubblici?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://casaloldo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casaloldo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020012",
+"comune": "Casalromano",
+"sito": "https://www.comune.casalromano.mn.it/it-it/home",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.casalromano.mn.it/it-it/amministrazione-trasparente/bandi-di-gara-e-contratti"
+},
+{
+"kind": "albo",
+"url": "https://casalromano.halleyegov.it/redirect.html?F=MC09"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casalromano.mn.it/it-it/novita"
+}
+]
+},
+{
+"istat": "020013",
+"comune": "Castelbelforte",
+"sito": "https://www.comune.castelbelforte.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://castelbelforte.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza;jsessionid=CC06841ED73EC196592DF3723D718925"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.castelbelforte.mn.it/it/news/aggiornamento-albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelbelforte.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020014",
+"comune": "Castel d'Ario",
+"sito": "https://www.comune.casteldario.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://casteldario.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.casteldario.mn.it/it/news/aggiornamento-dell-albo-dei-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.casteldario.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020015",
+"comune": "Castel Goffredo",
+"sito": "https://www.comune.castelgoffredo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Castelgoffredo/AmministrazioneTrasparente/BandiContratti"
+},
+{
+"kind": "albo",
+"url": "https://dgegovpa.it/Castelgoffredo/Albo/Albo"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castelgoffredo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020016",
+"comune": "Castellucchio",
+"sito": "https://www.comune.castellucchio.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscastellucchio/listaservizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castellucchio.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020017",
+"comune": "Castiglione delle Stiviere",
+"sito": "https://www.comune.castiglione.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://castiglionedellestiviere.trasparenza-valutazione-merito.it/"
+},
+{
+"kind": "albo",
+"url": "https://castiglionedellestiviere.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.castiglione.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020018",
+"comune": "Cavriana",
+"sito": "https://www.comune.cavriana.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.cavriana.mn.it/EG0/EGSCHTST26.HBL?en=egt92&MESSA=PUBBLICA&SRL=90"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.cavriana.mn.it/novita/comunicati_stampa/novita_25.html"
+}
+]
+},
+{
+"istat": "020019",
+"comune": "Ceresara",
+"sito": "https://www.comune.ceresara.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/ceresara/Trasparenza/bandigaracontratti2.aspx"
+},
+{
+"kind": "albo",
+"url": "https://comune.ceresara.mn.it/novita/aggiornamento-albo-dei-presidenti-di-seggio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.ceresara.mn.it/novita/"
+}
+]
+},
+{
+"istat": "020020",
+"comune": "Commessaggio",
+"sito": "https://www.comune.commessaggio.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://commessaggio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza/"
+},
+{
+"kind": "albo",
+"url": "https://commessaggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/"
+},
+{
+"kind": "notizie",
+"url": "https://comune.commessaggio.mn.it/novita"
+}
+]
+},
+{
+"istat": "020021",
+"comune": "Curtatone",
+"sito": "https://www.comune.curtatone.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://curtatone.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.curtatone.mn.it/it/news/iscrizione-albo-presidenti-di-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.curtatone.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020022",
+"comune": "Dosolo",
+"sito": "https://www.comune.dosolo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.dosolo.mn.it/L190/?idSezione=19&id=&sort=&activePage=&search="
+},
+{
+"kind": "albo",
+"url": "https://comune.dosolo.mn.it/notizie/3657120/aggiornamento-albo-unico-persone-idonee"
+},
+{
+"kind": "notizie",
+"url": "https://comune.dosolo.mn.it/novita"
+}
+]
+},
+{
+"istat": "020024",
+"comune": "Gazoldo degli Ippoliti",
+"sito": "https://www.comune.gazoldo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c020024/zf/index.php/trasparenza/index/index/categoria/366"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.gazoldo.mn.it/a/albo-pretorio.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gazoldo.mn.it/territorio-e-comunita/news.html"
+}
+]
+},
+{
+"istat": "020025",
+"comune": "Gazzuolo",
+"sito": "https://www.comune.gazzuolo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://gazzuolo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://gazzuolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gazzuolo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020026",
+"comune": "Goito",
+"sito": "https://www.comune.goito.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c020026/zf/index.php/trasparenza"
+},
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/c020026/zf/index.php/trasparenza/index/index/categoria/430"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c020026/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.goito.mn.it/it-it/novita"
+}
+]
+},
+{
+"istat": "020027",
+"comune": "Gonzaga",
+"sito": "https://www.comune.gonzaga.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://gonzaga.trasparenza-valutazione-merito.it/web/trasparenza/"
+},
+{
+"kind": "albo",
+"url": "https://gonzaga.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.gonzaga.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020028",
+"comune": "Guidizzolo",
+"sito": "https://www.comune.guidizzolo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://servizi.comune.guidizzolo.mn.it/ServiziOnLine/Istanze/landingIstanza?Id=1"
+},
+{
+"kind": "albo",
+"url": "https://servizi.comune.guidizzolo.mn.it/ServiziOnLine/Istanze/landingIstanza?Id=2"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.guidizzolo.mn.it/notizie/Commemorazione-dei-defunti---Vendita-fiori-e-piante-Cimitero-di-Guidizzolo.html"
+}
+]
+},
+{
+"istat": "020029",
+"comune": "Magnacavallo",
+"sito": "https://www.comune.magnacavallo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.magnacavallo.mn.it/amministrazione-trasparente/sezioni/600284-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/c020029/po/il-comune-informa.php?x="
+},
+{
+"kind": "notizie",
+"url": "https://comune.magnacavallo.mn.it/novita"
+}
+]
+},
+{
+"istat": "020030",
+"comune": "Mantova",
+"sito": "https://www.comune.mantova.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://pubblicazioni.comune.mantova.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.mantova.it/it/news/iscrizioni-allalbo-dei-presidenti-di-seggio-elettorale-scadenza-31-10-2026"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mantova.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020031",
+"comune": "Marcaria",
+"sito": "https://www.comune.marcaria.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.marcaria.mn.it/Dettaglionews?IDNews=378005"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.marcaria.mn.it/Notizie"
+}
+]
+},
+{
+"istat": "020032",
+"comune": "Mariana Mantovana",
+"sito": "https://www.comune.mariana.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.mariana.mn.it/?en=eg730&MESSA=PUBBLICA&SRL=94"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.mariana.mn.it/novita/notizie/novita_31.html"
+}
+]
+},
+{
+"istat": "020033",
+"comune": "Marmirolo",
+"sito": "https://www.comune.marmirolo.mn.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.marmirolo.mn.it/it/page/109713?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://marmirolo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.marmirolo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020034",
+"comune": "Medole",
+"sito": "https://www.comune.medole.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c020034/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "http://halleyweb.com/c020034/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/unmedpsm/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.medole.mn.it/territorio-e-comunita/news.html"
+}
+]
+},
+{
+"istat": "020035",
+"comune": "Moglia",
+"sito": "https://www.comune.moglia.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://moglia.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.moglia.mn.it/it/news/domanda-di-iscrizione-all-albo-degli-scrutatori-2047402?type=3"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.moglia.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020036",
+"comune": "Monzambano",
+"sito": "https://www.comune.monzambano.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://monzambano.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.monzambano.mn.it/novita/notizie/novita_109.html"
+}
+]
+},
+{
+"istat": "020037",
+"comune": "Motteggiana",
+"sito": "https://www.comune.motteggiana.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.motteggiana.mn.it/zf/index.php/bandi-di-gara/bandi-di-gara/bando/sezione/archivio/sidx/DATA_SCADENZA/sord/asc/page/12/cigBando/Z96300F0F1/serialBando/624"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.motteggiana.mn.it/c020037/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.motteggiana.mn.it/c020037/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "020038",
+"comune": "Ostiglia",
+"sito": "https://www.comune.ostiglia.mn.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.ostiglia.mn.it/novita/avvisi/novita_218.html"
+}
+]
+},
+{
+"istat": "020039",
+"comune": "Pegognaga",
+"sito": "https://www.comune.pegognaga.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.pegognaga.mn.it/EG0/EGSCHTST26.HBL?en=eg762&MESSA=PUBBLICA&SRL=131"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.pegognaga.mn.it/novita/avvisi/novita_3205.html"
+}
+]
+},
+{
+"istat": "020041",
+"comune": "Piubega",
+"sito": "https://www.comune.piubega.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.piubega.mn.it/c020041/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.piubega.mn.it/c020041/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.piubega.mn.it/c020041/po/po_p_eventi.php"
+}
+]
+},
+{
+"istat": "020042",
+"comune": "Poggio Rusco",
+"sito": "https://www.comune.poggiorusco.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizi.comune.poggiorusco.mn.it/ServiziOnLine/AlboPretorio/AlboPretorio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.poggiorusco.mn.it/novita"
+}
+]
+},
+{
+"istat": "020043",
+"comune": "Pomponesco",
+"sito": "https://www.comune.pomponesco.mn.it",
+"pages": [
+{
+"kind": "notizie",
+"url": "https://www.comune.pomponesco.mn.it/novita/notizie/novita_177.html"
+}
+]
+},
+{
+"istat": "020044",
+"comune": "Ponti sul Mincio",
+"sito": "https://www.comune.pontisulmincio.mn.it",
+"pages": [
+{
+"kind": "home",
+"url": "https://comune.pontisulmincio.mn.it/",
+"browser": true
+}
+]
+},
+{
+"istat": "020045",
+"comune": "Porto Mantovano",
+"sito": "https://www.consorzioprogettosolidarieta.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.consorzioprogettosolidarieta.it/amministrazione-trasparente/bandi-gara-contratti/bandi-gara-contratti-fino-al-31-dicembre-2022"
+},
+{
+"kind": "albo",
+"url": "https://protocollo.consorzioprogettosolidarieta.it/pubblicazioni/visualizzaAlbo.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.consorzioprogettosolidarieta.it/notizie"
+}
+]
+},
+{
+"istat": "020046",
+"comune": "Quingentole",
+"sito": "https://www.comune.quingentole.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.apkappa.it/quingentole/index.php?option=com_content&view=article&id=154&Itemid=27"
+},
+{
+"kind": "albo",
+"url": "https://albo.apkappa.it/quingentole/albo/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.quingentole.mn.it/vivere-il-comune/dati-generali/notizie"
+}
+]
+},
+{
+"istat": "020047",
+"comune": "Quistello",
+"sito": "https://www.comune.quistello.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://quistello.trasparenza-valutazione-merito.it/web/trasparenza/"
+},
+{
+"kind": "albo",
+"url": "https://comune.quistello.mn.it/notizie/2473147/albo-scrutatori-seggio-elettorale"
+},
+{
+"kind": "notizie",
+"url": "https://comune.quistello.mn.it/novita"
+}
+]
+},
+{
+"istat": "020048",
+"comune": "Redondesco",
+"sito": "https://www.comune.redondesco.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c020048/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c020048/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1791492936&nodo=nodo3"
+},
+{
+"kind": "albo",
+"url": "http://www.halleyweb.com/c020048/index.php?servizio=304%20(albo%20pretorio)"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.redondesco.mn.it/index.php?option=com_content&view=category&layout=blog&id=12&Itemid=324"
+}
+]
+},
+{
+"istat": "020050",
+"comune": "Rivarolo Mantovano",
+"sito": "https://www.comune.rivarolo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://rivarolomantovano.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "albo",
+"url": "https://rivarolomantovano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rivarolo.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020051",
+"comune": "Rodigo",
+"sito": "https://www.comune.rodigo.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://dgegovpa.it/Rodigo/Trasparenza/bandigaracontratti2.aspx"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.rodigo.mn.it/novita/albo-presidenti-di-seggio-iscrizioni-2/"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.rodigo.mn.it/novita/"
+}
+]
+},
+{
+"istat": "020052",
+"comune": "Roncoferraro",
+"sito": "https://www.comune.roncoferraro.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.roncoferraro.mn.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.roncoferraro.mn.it/c020052/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.roncoferraro.mn.it/c020052/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roncoferraro.mn.it/c020052/zf/index.php/servizi-aggiuntivi/index/index/idtesto/54"
+}
+]
+},
+{
+"istat": "020053",
+"comune": "Roverbella",
+"sito": "https://www.comune.roverbella.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://www.comune.roverbella.mn.it/notizie/AGGIORNAMENTO-ALBO-SCRUTATORI-DI-SEGGIO.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.roverbella.mn.it/notizie/Attivit--dai-65-anni-in-su.html"
+}
+]
+},
+{
+"istat": "020054",
+"comune": "Sabbioneta",
+"sito": "https://www.comune.sabbioneta.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sabbioneta.e-pal.it/L190/?idSezione=19&id=&sort=&activePage=&search=",
+"browser": true
+},
+{
+"kind": "albo",
+"url": "https://sabbioneta.e-pal.it/AlboOnline"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sabbioneta.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020055",
+"comune": "San Benedetto Po",
+"sito": "https://www.comune.san-benedetto-po.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://sanbenedettopo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.san-benedetto-po.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020056",
+"comune": "San Giacomo delle Segnate",
+"sito": "https://www.comune.san-giacomo-delle-segnate.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://trasparenza.apkappa.it/sangiacomodellesegnate/index.php?option=com_content&view=article&id=97&Itemid=27"
+},
+{
+"kind": "bandi",
+"url": "https://trasparenza.apkappa.it/sangiacomodellesegnate/index.php?option=com_content&view=article&id=154&Itemid=27"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssgsegnate/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://comune.san-giacomo-delle-segnate.mn.it/novita"
+}
+]
+},
+{
+"istat": "020057",
+"comune": "San Giorgio Bigarello",
+"sito": "http://www.comune.sangiorgiobigarello.mn.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sangiorgiobigarello.mn.it/it/page/108790?fromService=1"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sangiorgiobigarello.mn.it/it/news/apertura-iscrizione-all-albo-dei-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sangiorgiobigarello.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020058",
+"comune": "San Giovanni del Dosso",
+"sito": "https://www.comune.sangiovannideldosso.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://comune.sangiovannideldosso.mn.it/amministrazione-trasparente/sezioni/596553-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmssgdeldosso/listaservizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://comune.sangiovannideldosso.mn.it/novita"
+}
+]
+},
+{
+"istat": "020059",
+"comune": "San Martino dall'Argine",
+"sito": "https://www.comune.sanmartinodallargine.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://sanmartinodallargine.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+},
+{
+"kind": "bandi",
+"url": "https://sanmartinodallargine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-trasparenza?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=40162&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=22779"
+},
+{
+"kind": "albo",
+"url": "https://sanmartinodallargine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=22770"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sanmartinodallargine.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020060",
+"comune": "Schivenoglia",
+"sito": "https://www.comune.schivenoglia.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.schivenoglia.mn.it/servizi-categoria/appalti-pubblici/"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsschivenoglia/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.schivenoglia.mn.it/novita/"
+}
+]
+},
+{
+"istat": "020061",
+"comune": "Sermide e Felonica",
+"sito": "https://www.comune.sermideefelonica.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.sermideefelonica.mn.it/EG0/EGSCHTST26.HBL?en=eg521&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.sermideefelonica.mn.it/novita/avvisi/novita_198.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sermideefelonica.mn.it/novita/comunicati_stampa/novita_187.html"
+}
+]
+},
+{
+"istat": "020062",
+"comune": "Serravalle a Po",
+"sito": "https://www.comune.serravalleapo.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizi.comune.serravalleapo.mn.it/ServiziOnLine/AlboPretorio/AlboPretorio"
+},
+{
+"kind": "notizie",
+"url": "http://www.minciopo.it/notizie/ANAGRAFE-STATO-CIVILE-ORARI.html"
+}
+]
+},
+{
+"istat": "020063",
+"comune": "Solferino",
+"sito": "https://comune.solferino.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "http://www.halleyweb.com/c020063/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+},
+{
+"kind": "albo",
+"url": "https://www.halleyweb.com/unmedpsm/mc/mc_p_ricerca.php"
+},
+{
+"kind": "notizie",
+"url": "https://comune.solferino.mn.it/territorio-e-comunita/news.html"
+}
+]
+},
+{
+"istat": "020064",
+"comune": "Sustinente",
+"sito": "https://www.comune.sustinente.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://servizi.comune.sustinente.mn.it/ServiziOnLine/AlboPretorio/AlboPretorio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.sustinente.mn.it/notizie/bando-alloggi.html"
+}
+]
+},
+{
+"istat": "020065",
+"comune": "Suzzara",
+"sito": "https://www.comune.suzzara.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.suzzara.mn.it/EG0/EGSCHTST26.HBL?en=e1337&MESSA=PUBBLICA&SRL=89",
+"browser": true
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.suzzara.mn.it/novita/avvisi/novita_540.html"
+}
+]
+},
+{
+"istat": "020066",
+"comune": "Viadana",
+"sito": "https://www.comune.viadana.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.viadana.mn.it/amministrazione-trasparente/sezioni/591025-atti-amministrazioni-aggiudicatrici-enti"
+},
+{
+"kind": "bandi",
+"url": "https://www.comune.viadana.mn.it/amministrazione-trasparente/sezioni/591179-bandi-gara-contratti"
+},
+{
+"kind": "albo",
+"url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsviadana/listaservizi.aspx?U=1&S=200"
+},
+{
+"kind": "notizie",
+"url": "https://comune.viadana.mn.it/novita"
+}
+]
+},
+{
+"istat": "020068",
+"comune": "Villimpenta",
+"sito": "https://www.comune.villimpenta.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_lombardia/_villimpenta/110_ban_gar_con/020_att_amm_agg_pro/"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.villimpenta.mn.it/it/news/aggiornamento-albo-presidenti-di-seggio"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.villimpenta.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020070",
+"comune": "Volta Mantovana",
+"sito": "https://www.comune.volta.mn.it/",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://voltamantovana.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.volta.mn.it/novita/notizie/novita_64.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.volta.mn.it/novita/notizie/novita_59.html"
+}
+]
+},
+{
+"istat": "020071",
+"comune": "Borgo Virgilio",
+"sito": "https://www.comune.borgovirgilio.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.halleyweb.com/borgovirgi/zf/index.php/bandi-gara/bandi-gara/bandi"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.borgovirgilio.mn.it/it/news/iscrizione-all-albo-degli-scrutatori-2052311"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgovirgilio.mn.it/it/menu/news"
+}
+]
+},
+{
+"istat": "020072",
+"comune": "Borgo Mantovano",
+"sito": "https://www.comune.borgomantovano.mn.it",
+"pages": [
+{
+"kind": "albo",
+"url": "https://comune.borgomantovano.mn.it/notizie/2928247/aggiornamento-albo-persone-idonee-ufficio"
+},
+{
+"kind": "notizie",
+"url": "https://comune.borgomantovano.mn.it/novita"
+}
+]
+},
+{
+"istat": "020073",
+"comune": "Borgocarbonara",
+"sito": "https://www.comune.borgocarbonara.mn.it",
+"pages": [
+{
+"kind": "bandi",
+"url": "https://www.comune.borgocarbonara.mn.it/EG0/EGSCHTST26.HBL?en=e1640&MESSA=PUBBLICA&SRL=89"
+},
+{
+"kind": "albo",
+"url": "https://www.comune.borgocarbonara.mn.it/novita/avvisi/novita_42.html"
+},
+{
+"kind": "notizie",
+"url": "https://www.comune.borgocarbonara.mn.it/novita/notizie/novita_30.html"
+}
+]
+}
+]
+}
